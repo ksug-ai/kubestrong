@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Alice Johnson",
+    "github": "alicejohnson",
+    "certs": [
+      "CKA",
+      "CKAD"
+    ],
+    "provider": "CNCF",
+    "city": "San Francisco",
+    "country": "USA",
+    "date": "2024-11-01",
+    "bio": "DevOps engineer passionate about open source.",
+    "twitter": "alicecloud",
+    "linkedin": "alicejohnson",
+    "website": "https://alice.dev",
+    "avatar": "/avatars/alicejohnson.png"
+  },
+  {
+    "name": "Ravi Kumar",
+    "github": "ravikumar",
+    "certs": [
+      "CKA"
+    ],
+    "provider": "KodeKloud",
+    "city": "Bangalore",
+    "country": "India",
+    "date": "2025-01-15",
+    "bio": "Site reliability engineer, loves automating things.",
+    "linkedin": "ravikumar",
+    "website": "https://ravikumar.io"
+  },
+  {
+    "name": "Yuki Tanaka",
+    "github": "yukitanaka",
+    "certs": [
+      "CKS",
+      "CKA"
+    ],
+    "provider": "CNCF",
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-02-20",
+    "bio": "Cloud-native enthusiast and Kubernetes trainer.",
+    "twitter": "yuki_cloud",
+    "linkedin": "yukitanaka"
+  }
+]
