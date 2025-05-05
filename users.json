@@ -1,48 +1,150 @@
 [
+    {
+    "name": "Yongkang He",
+    "github": "yongkanghe",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2024-07-01",
+    "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+    "twitter": "yongkanghe",
+    "linkedin": "yongkanghe",
+    "website": "https://kubekon.com",
+    "avatar": "/avatars/yongkanghe.png"
+  },
   {
-    "name": "Alice Johnson",
-    "github": "alicejohnson",
-    "certs": [
-      "CKA",
-      "CKAD"
-    ],
-    "provider": "CNCF",
-    "city": "San Francisco",
+    "name": "Dennis John",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Caberra",
+    "country": "Australia",
+    "date": "2025-05-05",
+    "linkedin": "dennisjohnkn",
+    "avatar": "/avatars/dennisjohn.png"
+  },
+  {
+    "name": "Leonid Kopylov",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Ashkelon",
+    "country": "Israel",
+    "date": "2025-05-05",
+    "linkedin": "leonchik1976",
+    "avatar": "/avatars/leonidkopylov.png"
+  },
+  {
+    "name": "Bangaly KABA, PhD",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Paris",
+    "country": "France",
+    "date": "2025-05-05",
+    "linkedin": "bangaly-kaba-phd-6aa51925",
+    "avatar": "/avatars/bangalykaba.png"
+  },
+  {
+    "name": "Sammy Cheung",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Austin",
     "country": "USA",
-    "date": "2024-11-01",
-    "bio": "DevOps engineer passionate about open source.",
-    "twitter": "alicecloud",
-    "linkedin": "alicejohnson",
-    "website": "https://alice.dev",
-    "avatar": "/avatars/alicejohnson.png"
+    "date": "2025-05-05",
+    "linkedin": "sammy-cheung",
+    "avatar": "/avatars/sammycheung.png"
   },
   {
-    "name": "Ravi Kumar",
-    "github": "ravikumar",
-    "certs": [
-      "CKA"
-    ],
-    "provider": "KodeKloud",
-    "city": "Bangalore",
-    "country": "India",
-    "date": "2025-01-15",
-    "bio": "Site reliability engineer, loves automating things.",
-    "linkedin": "ravikumar",
-    "website": "https://ravikumar.io"
+    "name": "Stanislav Kolenkin",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Warsaw",
+    "country": "Poland",
+    "date": "2025-05-05",
+    "linkedin": "stanislav-kolenkin-4b6b96a",
+    "avatar": "/avatars/stanislavkolenkin.png"
   },
   {
-    "name": "Yuki Tanaka",
-    "github": "yukitanaka",
-    "certs": [
-      "CKS",
-      "CKA"
-    ],
-    "provider": "CNCF",
+    "name": "Bolivar David Llerena Fuenmayor",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Quito",
+    "country": "Ecuador",
+    "date": "2025-05-05",
+    "linkedin": "bdllerena",
+    "avatar": "/avatars/bolivardavidllerenafuenmayor.png"
+  },
+  {
+    "name": "Shinji AIBARA",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Fujisawa",
+    "country": "Japan",
+    "date": "2025-05-05",
+    "linkedin": "shinji-aibara-595a26329",
+    "avatar": "/avatars/shinjiaibara.png"
+  },
+  {
+    "name": "Junichi Miyagawa",
+    "certs": ["kubestrong", "awstronaut"],
     "city": "Tokyo",
     "country": "Japan",
-    "date": "2025-02-20",
-    "bio": "Cloud-native enthusiast and Kubernetes trainer.",
-    "twitter": "yuki_cloud",
-    "linkedin": "yukitanaka"
+    "date": "2025-05-05",
+    "linkedin": "junichi-miyagawa-ab67bb228",
+    "avatar": "/avatars/junichimiyagawa.png"
+  },
+  {
+    "name": "Geoff Loh",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Auckland",
+    "country": "New Zealand",
+    "date": "2025-05-05",
+    "linkedin": "geoff-loh",
+    "avatar": "/avatars/geoffloh.png"
+  },
+  {
+    "name": "Jason Khoi",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2025-05-05",
+    "linkedin": "jason-khoi-977b231a1",
+    "avatar": "/avatars/jasonkhoi.png"
+  },
+  {
+    "name": "Ihor Matsapura",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "date": "2025-05-05",
+    "linkedin": "ihor-matsapura",
+    "avatar": "/avatars/ihormatsapura.png"
+  },
+  {
+    "name": "V-ris Jaijongrak",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Bangkok",
+    "country": "Thailand",
+    "date": "2025-05-05",
+    "linkedin": "v-ris-jaijongrak",
+    "avatar": "/avatars/vrisjaijongrak.png"
+  },
+  {
+    "name": "Eric Schüler",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Nuremberg",
+    "country": "Germany",
+    "date": "2025-05-05",
+    "linkedin": "ericschueler",
+    "avatar": "/avatars/ericschueler.png"
+  },
+  {
+    "name": "Yuriy Bezsonov",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Paderborn",
+    "country": "Germany",
+    "date": "2025-05-05",
+    "linkedin": "yuriybezsonov",
+    "avatar": "/avatars/yuriybezsonov.png"
+  },
+  {
+    "name": "Dinesh Singh Bisht",
+    "certs": ["kubestrong", "awstronaut"],
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2025-05-05",
+    "linkedin": "dineshsinghbisht",
+    "avatar": "/avatars/dineshsinghbisht.png"
   }
 ]
