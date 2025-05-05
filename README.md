@@ -1,6 +1,6 @@
-# 📘 Certified Community Members Submission Guide
+# 📘 kubestrong club Members Submission Guide
 
-Welcome! This project highlights certified Kubernetes community members around the world. If you are certified (CKA, CKAD, CKS, etc.), you're welcome to submit your profile.
+Welcome to kubestrong club! This project highlights K8SUG certified kubestrong community members around the world. We are still finalizing the details on how to be a kubestrong. In the meantime, first up 16 awstronauts + kubestronauts around the world. More info on [kubestrong](https://linkedin.com/company/kubestrong).
 
 ---
 
@@ -10,20 +10,23 @@ Please submit a JSON entry in `users.json` with the following structure, and upl
 
 ### ✅ JSON Format
 ```json
-{
-  "name": "Alice Johnson",
-  "github": "alicejohnson",
-  "certs": ["CKA", "CKAD"],
-  "provider": "CNCF",
-  "city": "San Francisco",
-  "country": "USA",
-  "date": "2024-11-01",
-  "bio": "DevOps engineer passionate about open source.",
-  "twitter": "alicecloud",
-  "linkedin": "alicejohnson",
-  "website": "https://alice.dev",
-  "avatar": "/avatars/alicejohnson.png"
-}
+    {
+    "name": "Yongkang He",
+    "github": "yongkanghe",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "provider": "K8SUG",
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2024-07-01",
+    "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+    "twitter": "yongkanghe",
+    "linkedin": "yongkanghe",
+    "website": "https://k8sug.ai",
+    "avatar": "/avatars/yongkanghe.png"
+  }
 ```
 
 ### 📌 Field Descriptions
@@ -55,7 +58,7 @@ Please submit a JSON entry in `users.json` with the following structure, and upl
 ---
 
 ## 💡 PR Tips
-- Place your JSON entry in `users.json` in alphabetical order by `name`
+- Place your JSON entry in `users.json` to the end of the file
 - Ensure valid JSON syntax (use a linter or JSON validator)
 - Use meaningful commit messages (e.g., `add: alicejohnson to certified list`)
 
