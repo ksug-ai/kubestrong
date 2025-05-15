@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Yongkang He",
     "github": "yongkanghe",
     "certs": ["kubestrong", "awstronaut"],
@@ -146,5 +146,15 @@
     "date": "2025-05-05",
     "linkedin": "dineshsinghbisht",
     "avatar": "/avatars/dineshsinghbisht.png"
+  },
+  {
+    "name": "Doddy Kristianto",
+    "certs": ["kubestrong", "golden kubestronaut"],
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "date": "2025-05-14",
+    "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect & DevOps Pro | MTI, 3xVCP[DCV, Cloud, NSX], 2xVCAP[DCA,DCD] ",
+    "linkedin": "doddy-kristianto-3888ba1a",
+    "avatar": "/avatars/doddykristianto.png"
   }
 ]
