@@ -1,0 +1,42 @@
+name: Upload users.json & avatars to Azure Blob (kubestrong)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - users.json
+      - avatars/**
+
+jobs:
+  upload-to-azure:
+    name: Upload kubestrong data to Azure Blob
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Upload users.json and avatars to Azure Blob (kubestrong)
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            echo "Uploading users.json..."
+            az storage blob upload \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT }} \
+              --account-key ${{ secrets.AZURE_STORAGE_KEY }} \
+              --container-name user-info \
+              --name kubestrong/users.json \
+              --file users.json \
+              --overwrite
+
+            echo "Uploading avatars..."
+            for file in avatars/*; do
+              filename=$(basename "$file")
+              az storage blob upload \
+                --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT }} \
+                --account-key ${{ secrets.AZURE_STORAGE_KEY }} \
+                --container-name user-info \
+                --name kubestrong/avatars/$filename \
+                --file $file \
+                --overwrite
+            done
