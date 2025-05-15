@@ -24,11 +24,11 @@ Please add your profile using the following format in `users.json`:
 {
   "name": "Yongkang He",
   "github": "yongkanghe",
-  "certs": ["awstronaut"],
+  "certs": ["kubestrong"],
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
-  "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+  "bio": "Founder @K8SUG | Creator @kubestrong = @awstronaut + kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
   "twitter": "yongkanghe",
   "linkedin": "yongkanghe",
   "website": "https://k8sug.ai",
