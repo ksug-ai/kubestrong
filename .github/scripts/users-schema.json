@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "name",
+      "certs",
+      "city",
+      "country",
+      "date"
+    ],
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "github": {
+        "type": "string"
+      },
+      "certs": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "provider": {
+        "type": "string"
+      },
+      "city": {
+        "type": "string"
+      },
+      "country": {
+        "type": "string"
+      },
+      "date": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "bio": {
+        "type": "string"
+      },
+      "twitter": {
+        "type": "string"
+      },
+      "linkedin": {
+        "type": "string"
+      },
+      "website": {
+        "type": "string"
+      },
+      "avatar": {
+        "type": "string"
+      }
+    },
+    "additionalProperties": false
+  }
+}
