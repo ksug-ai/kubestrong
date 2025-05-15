@@ -1,6 +1,6 @@
 # 📘 kubestrong club Members Submission Guide
 
-Welcome to **kubestrong** club! The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://linkedin.com/company/awstronaut)** and **[kubestronaut](http://k8.k8sdm.com)** titles — or hold the **[Golden Kubestronaut](http://gk.k8sdm.com)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. More info on [kubestrong](https://linkedin.com/company/kubestrong).
+Welcome to **[kubestrong](https://linkedin.com/company/kubestrong)** club! The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://linkedin.com/company/awstronaut)** and **[kubestronaut](http://k8.k8sdm.com)** titles — or hold the **[Golden Kubestronaut](http://gk.k8sdm.com)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. More info on **[kubestrong](https://linkedin.com/company/kubestrong)**.
 
 ---
 
