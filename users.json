@@ -156,5 +156,16 @@
     "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect & DevOps Pro | MTI, 3xVCP[DCV, Cloud, NSX], 2xVCAP[DCA,DCD] ",
     "linkedin": "doddy-kristianto-3888ba1a",
     "avatar": "/avatars/doddykristianto.png"
-  }
+  },
+  {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": ["kubestrong", "golden kubestronaut"],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2025-05-017",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
+}
+
 ]
