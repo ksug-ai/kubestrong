@@ -166,5 +166,20 @@
     "date": "2025-05-17",
     "linkedin": "albertzhu88",
     "avatar": "/avatars/albertzhu.png"
+  },
+  {
+    "name": "Allen R. Chan",
+    "github": "allenrchan",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Sunnyvale",
+    "country": "USA",
+    "date": "2024-12-11",
+    "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
+    "linkedin": "allenchan",
+    "website": "https://aidr.dev",
+    "avatar": "/avatars/allen-r-chan.png"
   }
 ]
