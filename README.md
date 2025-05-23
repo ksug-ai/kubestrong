@@ -113,4 +113,4 @@ Join over **100,000** passionate learners who:
 
 📣 Follow [K8SUG.AI](https://k8sug.ai) — Let’s build, learn, and grow together! 🚀
 
-
+<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. K8SUG is an independent community and not affiliated with or endorsed by CNCF.</sub>
