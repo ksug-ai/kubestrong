@@ -265,5 +265,21 @@
     "bio": "SOC 2 Compliance Lead | CISSP | CNCF Golden Kubestronaut | 15+ Cloud/Cyber Certs | GenAI | Scaling Trust for Startups",
     "linkedin": "kris-musard",
     "avatar": "/avatars/krismusard.jpg"
+  },
+  {
+    "name": "François Meulenberg",
+    "github": "GoatFather013",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut",
+      "SAP-C02",
+      "SCS-C02"
+    ],
+    "city": "Schiphol-Rijk",
+    "country": "Netherlands",
+    "date": "2025-04-10",
+    "bio": "CNCF Golden Kubestronaut | 6 AWS Certs | Helping others becoming Greater",
+    "linkedin": "fmeulenberg",
+    "avatar": "/avatars/francois-meulenberg.jpg"
   }
 ]
