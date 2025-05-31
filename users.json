@@ -281,5 +281,17 @@
     "bio": "CNCF Golden Kubestronaut | 6 AWS Certs | Helping others becoming Greater",
     "linkedin": "fmeulenberg",
     "avatar": "/avatars/francois-meulenberg.jpg"
+  },
+  {
+    "name": "Pragesh Trivedi",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "date": "2025-05-17",
+    "linkedin": "prageshtrivedi",
+    "avatar": "/avatars/tpragesh.png"
   }
 ]
