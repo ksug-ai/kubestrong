@@ -38,7 +38,7 @@ Please add your profile using the following format in `users.json`:
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
-  "bio": "Founder @K8SUG | Creator @kubestrong = @awstronaut + kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+  "bio": "Founder @KSUG.AI | Creator @kubestrong = @awstronaut + kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
   "twitter": "yongkanghe",
   "linkedin": "yongkanghe",
   "website": "https://k8sug.ai",
@@ -106,11 +106,11 @@ Join over **100,000** passionate learners who:
 - ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
 - ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
-📌 Subscribe now → 🔥 [K8SUG Linktree](https://linktr.ee/k8sug)
-📌 Bookmark this → ❤️ [K8SUG.AI](https://k8sug.ai/save)
+📌 Subscribe now → 🔥 [KSUG.AI Linktree](https://linktr.ee/k8sug)
+📌 Bookmark this → ❤️ [KSUG.AI](https://ksug.ai/save)
 
 🔗 Stay plugged into the world’s most active Kubernetes + AI community.
 
-📣 Follow [K8SUG.AI](https://k8sug.ai) — Let’s build, learn, and grow together! 🚀
+📣 Follow [KSUG.AI](https://ksug.ai) — Let’s build, learn, and grow together! 🚀
 
-<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. K8SUG is an independent community and not affiliated with or endorsed by CNCF.</sub>
+<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. KSUG.AI is an independent community and not affiliated with or endorsed by CNCF.</sub>
