@@ -293,5 +293,18 @@
     "date": "2025-05-17",
     "linkedin": "prageshtrivedi",
     "avatar": "/avatars/tpragesh.png"
+  },
+  {
+    "name": "Kimi Huang",
+    "github": "shiningmosquito",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "date": "2024-06-17",
+    "linkedin": "yu-lin-huang-b2096a87",
+    "avatar": "/avatars/kimihuang.png"
   }
 ]
