@@ -285,8 +285,8 @@
   {
     "name": "Pragesh Trivedi",
     "certs": [
+      "kubestrong",
       "awstronaut",
-      "kubestronaut"
     ],
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
@@ -298,8 +298,8 @@
     "name": "Kimi Huang",
     "github": "shiningmosquito",
     "certs": [
+      "kubestrong",
       "awstronaut",
-      "kubestronaut"
     ],
     "city": "Kaohsiung",
     "country": "Taiwan",
