@@ -10,27 +10,34 @@
       "country",
       "date"
     ],
+    "additionalProperties": false,
     "properties": {
       "name": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "github": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^[a-zA-Z0-9-]{1,39}$"
       },
       "certs": {
         "type": "array",
+        "minItems": 1,
         "items": {
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         }
       },
       "provider": {
         "type": "string"
       },
       "city": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "country": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "date": {
         "type": "string",
@@ -40,18 +47,21 @@
         "type": "string"
       },
       "twitter": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_]{1,15}$"
       },
       "linkedin": {
-        "type": "string"
+        "type": "string",
+        "format": "uri"
       },
       "website": {
-        "type": "string"
+        "type": "string",
+        "format": "uri"
       },
       "avatar": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^/avatars/.+\\.(png|jpg|jpeg)$"
       }
-    },
-    "additionalProperties": false
+    }
   }
 }
