@@ -1,6 +1,16 @@
 # 📘 kubestrong club Members Submission Guide
 
-Welcome to kubestrong club! This project highlights K8SUG certified kubestrong community members around the world. We are still finalizing the details on how to be a kubestrong. In the meantime, first up 16 awstronauts + kubestronauts around the world. More info on [kubestrong](https://linkedin.com/company/kubestrong).
+## Welcome to **[kubestrong](https://linkedin.com/company/kubestrong)** club! 
+
+The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://linkedin.com/company/awstronaut)** and **[kubestronaut](http://k8.k8sdm.com)** titles — or hold the **[Golden Kubestronaut](http://gk.k8sdm.com)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. 
+
+To submit your profile:
+
+1. You must be an awstronaut + kubestronaut or a golden kubestronaut + 2 cloud certs
+2. You must have officially claimed your kubestrong title by tagging us in a LinkedIn post
+3. Then, follow the steps below to get listed!
+
+👉 More info on **[kubestrong](https://linkedin.com/company/kubestrong)**.
 
 ---
 
@@ -24,11 +34,11 @@ Please add your profile using the following format in `users.json`:
 {
   "name": "Yongkang He",
   "github": "yongkanghe",
-  "certs": ["awstronaut"],
+  "certs": ["kubestrong"],
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
-  "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+  "bio": "Founder @KSUG.AI | Creator @kubestrong = @awstronaut + kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
   "twitter": "yongkanghe",
   "linkedin": "yongkanghe",
   "website": "https://k8sug.ai",
@@ -83,6 +93,24 @@ Check out this official guide:
 
 ---
 
+## 🙌 Thank You for Powering the Global Kubestrong Movement!
 
-## 🙌 Thanks for contributing to the global Kubernetes community!
+Together, we’re showcasing the impact of Multi-Cloud certifications and the strength of global community collaboration. 💪☁️🌍 Whether you're just starting out or already certified, you're part of something bigger — and stronger.
 
+---
+
+## 📢 Stay Connected with 100,000+ Cloud-Native Enthusiasts! 🎉
+
+Join over **100,000** passionate learners who:
+- ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡ 
+- ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
+- ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
+
+📌 Subscribe now → 🔥 [KSUG.AI Linktree](https://linktr.ee/k8sug)
+📌 Bookmark this → ❤️ [KSUG.AI](https://ksug.ai/save)
+
+🔗 Stay plugged into the world’s most active Kubernetes + AI community.
+
+📣 Follow [KSUG.AI](https://ksug.ai) — Let’s build, learn, and grow together! 🚀
+
+<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. KSUG.AI is an independent community and not affiliated with or endorsed by CNCF.</sub>
