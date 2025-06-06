@@ -2,7 +2,7 @@
 
 ## Welcome to **[kubestrong](https://linkedin.com/company/kubestrong)** club! 
 
-The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://linkedin.com/company/awstronaut)** and **[kubestronaut](http://k8.k8sdm.com)** titles — or hold the **[Golden Kubestronaut](http://gk.k8sdm.com)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. 
+The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://linkedin.com/company/awstronaut)** and **[kubestronaut](http://kb.ksug.ai)** titles — or hold the **[Golden Kubestronaut](http://gk.ksug.ai)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. 
 
 To submit your profile:
 
@@ -41,7 +41,7 @@ Please add your profile using the following format in `users.json`:
   "bio": "Founder @KSUG.AI | Creator @kubestrong = @awstronaut + kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
   "twitter": "yongkanghe",
   "linkedin": "yongkanghe",
-  "website": "https://k8sug.ai",
+  "website": "https://ksug.ai",
   "avatar": "/avatars/yongkanghe.png"
 }
 </pre>
@@ -106,11 +106,11 @@ Join over **100,000** passionate learners who:
 - ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
 - ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
-📌 Subscribe now → 🔥 [KSUG.AI Linktree](https://linktr.ee/k8sug)
+📌 Subscribe now → 🔥 [KSUG.AI Linktree](https://linktr.ee/ksug.ai)
 📌 Bookmark this → ❤️ [KSUG.AI](https://ksug.ai/save)
 
 🔗 Stay plugged into the world’s most active Kubernetes + AI community.
 
 📣 Follow [KSUG.AI](https://ksug.ai) — Let’s build, learn, and grow together! 🚀
 
-<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. KSUG.AI is an independent community and not affiliated with or endorsed by CNCF.</sub>
+<sub>[KSUG.AI](https://ksug.ai) is an independent community and not affiliated with or endorsed by CNCF. K8s and Kubernetes are registered trademarks of The Linux Foundation.</sub>
