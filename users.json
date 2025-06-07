@@ -306,5 +306,19 @@
     "date": "2024-06-17",
     "linkedin": "yu-lin-huang-b2096a87",
     "avatar": "/avatars/kimihuang.png"
-  }
+  },
+  {
+    "name": "Paramaguru Subramaniyam",
+    "github": "paramagurus",
+    "certs": [
+      "kubestrong"
+    ],
+    "city": "Chennai",
+    "country": "India",
+    "date": "2025-07-06",
+    "bio": "Tech enthusiast passionate about automation, cloud-native solutions, and continuous improvement. Skilled in CI/CD, container orchestration, and infrastructure as code, with a strong drive to streamline development workflows and enhance software delivery. Always exploring the latest in DevOps tooling and cloud technologies.",
+    "linkedin": "paramagurus",
+    "website": "https://ceekgeek.blogspot.com",
+    "avatar": "/avatars/Paramaguru.Subramaniyam.jpg"
+  },
 ]
