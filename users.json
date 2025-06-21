@@ -306,5 +306,17 @@
     "date": "2024-06-17",
     "linkedin": "yu-lin-huang-b2096a87",
     "avatar": "/avatars/kimihuang.png"
+  },
+  {
+    "name": "Larry Lai",
+    "github": "lai3d",
+    "certs": [
+      "kubestrong"
+    ],
+    "city": "Singapore",
+    "country": "Singapore",
+    "date": "2025-06-10",
+    "linkedin": "larrylaisg",
+    "avatar": "/avatars/larrylai.png"
   }
 ]
