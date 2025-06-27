@@ -306,5 +306,17 @@
     "date": "2024-06-17",
     "linkedin": "yu-lin-huang-b2096a87",
     "avatar": "/avatars/kimihuang.png"
+  },
+  {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
   }
 ]
