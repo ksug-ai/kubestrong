@@ -308,9 +308,24 @@
     "avatar": "/avatars/kimihuang.png"
   },
   {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
+  },
+  {
     "name": "Gijs Middelkamp",
     "github": "gkwmiddelkamp",
-    "certs": ["kubestrong", "Golden Kubestronaut"],
+    "certs": [
+      "kubestrong", 
+      "Golden Kubestronaut"
+    ],
     "city": "Hengelo",
     "country": "Netherlands",
     "date": "2025-06-27",
