@@ -308,16 +308,16 @@
     "avatar": "/avatars/kimihuang.png"
   },
   {
-    "name": "Yevhen Skyba",
+    "name": "Maxim Filipovich",
     "certs": [
       "kubestrong",
       "awstronaut"
     ],
-    "city": "Kharkiv",
-    "country": "Ukraine",
+    "city": "Warsaw",
+    "country": "Poland",
     "date": "2025-06-27",
-    "linkedin": "yevhen-skyba",
-    "avatar": "/avatars/yevhenskyba.jpg"
+    "linkedin": "maxim-filipovich-61771223",
+    "avatar": "/avatars/maxim_filipovich.jpg"
   },
   {
     "name": "Gijs Middelkamp",
@@ -331,5 +331,17 @@
     "date": "2025-06-27",
     "linkedin": "gmiddelkamp",
     "avatar": "/avatars/gijs-middelkamp.png"
+  },
+  {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
   }
 ]
