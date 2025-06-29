@@ -318,5 +318,17 @@
     "date": "2025-06-27",
     "linkedin": "yevhen-skyba",
     "avatar": "/avatars/yevhenskyba.jpg"
+  },
+  {
+    "name": "Maxim Filipovich",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Warsaw",
+    "country": "Poland",
+    "date": "2025-06-27",
+    "linkedin": "maxim-filipovich-61771223",
+    "avatar": "/avatars/maxim_filipovich.jpg"
   }
 ]
