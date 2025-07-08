@@ -333,6 +333,19 @@
     "avatar": "/avatars/gijs-middelkamp.png"
   },
   {
+    "name": "Alessandro Vozza",
+    "github": "ams0",
+    "certs": [
+      "kubestrong", 
+      "Golden Kubestronaut"
+    ],
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "date": "2025-07-09",
+    "linkedin": "lessandrovozza",
+    "avatar": "/avatars/alessandro-vozza.jpg"
+  },
+  {
     "name": "Yevhen Skyba",
     "certs": [
       "kubestrong",
