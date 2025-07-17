@@ -356,5 +356,18 @@
     "date": "2025-06-27",
     "linkedin": "yevhen-skyba",
     "avatar": "/avatars/yevhenskyba.jpg"
+  },
+    {
+    "name": "Julio C. Martinez",
+    "github": "julio-martinez",
+    "certs": [
+      "kubestrong",
+      "Golden  Kubestronaut"
+    ],
+    "city": "San Antonio",
+    "country": "USA",
+    "date": "2025-07-17",
+    "linkedin": "juliomartinez67",
+    "avatar": "/avatars/juliojulio.jpg"
   }
 ]
