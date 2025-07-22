@@ -369,5 +369,20 @@
     "date": "2025-07-17",
     "linkedin": "juliomartinez67",
     "avatar": "/avatars/julio.jpg"
+  },
+  {
+    "name": "Shaoyi Li",
+    "github": "szl0144",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "Jacksonville",
+    "country": "USA",
+    "date": "2025-05-19",
+    "bio": "Lead Cloud Engineer | AWS Hero | 89x AWS Badges | AWS UG China Leader | 145K+ followers",
+    "linkedin": "shaoyi-li-cloud",
+    "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
+    "avatar": "/avatars/ShaoyiLi.png"
   }
 ]
