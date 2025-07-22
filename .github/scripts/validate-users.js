@@ -14,6 +14,7 @@ try {
   console.error(`- ${err.message}`)
   process.exit(1)
 }
+
 let data
 try {
   const raw = fs.readFileSync(dataPath, 'utf-8')
@@ -26,10 +27,11 @@ try {
 
 const ajv = new Ajv({ allErrors: true, strict: true })
 addFormats(ajv)
+
 const validate = ajv.compile(schema)
 
 if (!validate(data)) {
-  console.error('❌ users.json failed schema validation:')
+  console.error('❌ users.json failed schema validation:\n')
   validate.errors.forEach((err) => {
     console.error(`- ${err.instancePath} ${err.message} (${err.keyword})`)
   })

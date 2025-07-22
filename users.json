@@ -9,10 +9,10 @@
     "city": "Melbourne",
     "country": "Australia",
     "date": "2024-07-01",
-    "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
     "twitter": "yongkanghe",
     "linkedin": "yongkanghe",
-    "website": "https://k8sug.ai",
+    "website": "https://ksug.ai",
     "avatar": "/avatars/yongkanghe.png"
   },
   {
@@ -306,5 +306,83 @@
     "date": "2024-06-17",
     "linkedin": "yu-lin-huang-b2096a87",
     "avatar": "/avatars/kimihuang.png"
+  },
+  {
+    "name": "Maxim Filipovich",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Warsaw",
+    "country": "Poland",
+    "date": "2025-06-27",
+    "linkedin": "maxim-filipovich-61771223",
+    "avatar": "/avatars/maxim_filipovich.jpg"
+  },
+  {
+    "name": "Gijs Middelkamp",
+    "github": "gkwmiddelkamp",
+    "certs": [
+      "kubestrong", 
+      "Golden Kubestronaut"
+    ],
+    "city": "Hengelo",
+    "country": "Netherlands",
+    "date": "2025-06-27",
+    "linkedin": "gmiddelkamp",
+    "avatar": "/avatars/gijs-middelkamp.png"
+  },
+  {
+    "name": "Alessandro Vozza",
+    "github": "ams0",
+    "certs": [
+      "kubestrong", 
+      "Golden Kubestronaut"
+    ],
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "date": "2025-07-09",
+    "linkedin": "lessandrovozza",
+    "avatar": "/avatars/alessandro-vozza.jpg"
+  },
+  {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
+  },
+    {
+    "name": "Julio C. Martinez",
+    "github": "julio-martinez",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "San Antonio",
+    "country": "USA",
+    "date": "2025-07-17",
+    "linkedin": "juliomartinez67",
+    "avatar": "/avatars/julio.jpg"
+  },
+  {
+    "name": "Shaoyi Li",
+    "github": "szl0144",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Jacksonville",
+    "country": "USA",
+    "date": "2025-07-21",
+    "bio": "Lead Cloud Engineer | AWS Hero | 89x AWS Badges | AWS UG China Leader | 145K+ followers",
+    "linkedin": "shaoyi-li-cloud",
+    "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
+    "avatar": "/avatars/ShaoyiLi.png"
   }
 ]
