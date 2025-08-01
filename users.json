@@ -1,5 +1,21 @@
 [
   {
+    "name": "Yujun Liang",
+    "github": "yujunliang",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Dallas",
+    "country": "USA",
+    "date": "2024-07-01",
+    "bio": "Certification King | kubestrong | awstronaut | kubestronaut | AWS Builder | Google GDE 2025 | Multi-Cloud",
+    "twitter": "yujunliang",
+    "linkedin": "yujunliang",
+    "website": "",
+    "avatar": "/avatars/yujunliang.png"
+  },
+  {
     "name": "Yongkang He",
     "github": "yongkanghe",
     "certs": [
