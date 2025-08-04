@@ -6,6 +6,7 @@ on:
     paths:
       - users.json
       - avatars/**
+  workflow_dispatch:
 
 jobs:
   upload-to-gcp:
