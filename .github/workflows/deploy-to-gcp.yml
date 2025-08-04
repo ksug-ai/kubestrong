@@ -1,0 +1,37 @@
+name: Upload users.json & avatars to GCP Storage (kubestrong)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - users.json
+      - avatars/**
+
+jobs:
+  upload-to-gcp:
+    name: Upload kubestrong data to GCP Storage
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Set up gcloud CLI
+        uses: google-github-actions/setup-gcloud@v1
+        with:
+          project_id: ksug-ai
+
+      - name: Upload users.json to GCP Storage
+        run: |
+          echo "Uploading users.json..."
+          gcloud storage cp users.json gs://ksug-ai-bucket1/kubestrong/users.json
+
+      - name: Upload avatars to GCP Storage
+        run: |
+          echo "Uploading avatars..."
+          gcloud storage cp avatars/* gs://ksug-ai-bucket1/kubestrong/avatars/
