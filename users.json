@@ -400,5 +400,21 @@
     "linkedin": "shaoyi-li-cloud",
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/ShaoyiLi.png"
-  }
+  },
+    {
+    "name": "DevonPatrick Adkins",
+    "github": "deadki0001",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "George",
+    "country": "South Africa",
+    "date": "2025-08-7",
+    "bio": "AWS Community Builder | 5x Cisco Champion | kubestronaut | Awstronaut | Senior DevOps Consultant", 
+    "twitter": "deadkideveloper",
+    "linkedin": "devonpatrick-adkins-☁-1068781a3",
+    "website": "deadkithedeveloper.click",
+    "avatar": "/avatars/devon111.png"
+  }  
 ]
