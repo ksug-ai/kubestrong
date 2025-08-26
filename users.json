@@ -268,21 +268,6 @@
     "avatar": "/avatars/pedrocelestin.jpg"
   },
   {
-    "name": "Ana Pedra",
-    "github": "redjules",
-    "certs": [
-      "kubestrong",
-      "awstronaut",
-      "golden kubestronaut" 
-    ],
-    "city": "Zürich",
-    "country": "Switzerland",
-    "date": "2025-08-26",
-    "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
-    "linkedin": "anapedra",
-    "avatar": "/avatars/Ana_Pedra.jpeg"
-  },
-  {
     "name": "Kris Musard",
     "github": "kmusard",
     "certs": [
@@ -431,5 +416,20 @@
     "linkedin": "devonpatrick-adkins-1068781a3",
     "website": "deadkithedeveloper.click",
     "avatar": "/avatars/devona.png"
-  }  
+  },
+  {
+    "name": "Ana Pedra",
+    "github": "redjules",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "golden kubestronaut" 
+    ],
+    "city": "Zürich",
+    "country": "Switzerland",
+    "date": "2025-08-26",
+    "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
+    "linkedin": "anapedra",
+    "avatar": "/avatars/Ana_Pedra.jpeg"
+  }
 ]
