@@ -431,5 +431,20 @@
     "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
     "linkedin": "anapedra",
     "avatar": "/avatars/Ana_Pedra.jpeg"
+  },
+  {
+    "name": "Boris Bradić",
+    "github": "borisbradic",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Kiseljak",
+    "country": "Bosnia and Herzegovina",
+    "date": "2025-08-16",
+    "bio": "DevOps Engineer focused on Kubernetes, containers, networking, and security. A continuous learner who likes to share knowledge and help others in the learning process. Member of the AWS Community Builders program in Containers category",
+    "twitter": "boris_bradic",
+    "linkedin": "borisbradic",
+    "avatar": "/avatars/borisbradic.jpg"
   }
 ]
