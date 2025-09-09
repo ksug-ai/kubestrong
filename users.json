@@ -3,6 +3,7 @@
     "name": "Yujun Liang",
     "github": "yujunliang",
     "certs": [
+      "kubestrong"
       "awstronaut",
       "kubestronaut"
     ],
@@ -166,7 +167,7 @@
   {
     "name": "V-ris Jaijongrak",
     "certs": [
-      "kubestrong",
+      "golden kubestrong",
       "awstronaut",
       "golden kubestronaut"
     ],
@@ -179,8 +180,9 @@
   {
     "name": "Eric Schüler",
     "certs": [
-      "kubestrong",
-      "awstronaut"
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
     ],
     "city": "Nuremberg",
     "country": "Germany",
@@ -242,7 +244,7 @@
     "name": "Allen R. Chan",
     "github": "allenrchan",
     "certs": [
-      "kubestrong",
+      "golden kubestrong",
       "awstronaut",
       "golden kubestronaut"
     ],
@@ -451,6 +453,7 @@
   {
     "name": "Jaruwat Panturat",
     "certs": [
+      "kubestrong",      
       "golden kubestronaut",
       "kubestronaut"
     ],
