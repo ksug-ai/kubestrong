@@ -447,5 +447,17 @@
     "twitter": "boris_bradic",
     "linkedin": "borisbradic",
     "avatar": "/avatars/borisbradic.jpg"
+  },
+  {
+    "name": "Jaruwat Panturat",
+    "certs": [
+      "golden kubestronaut",
+      "kubestronaut"
+    ],
+    "city": "Bangkok",
+    "country": "Thailand",
+    "date": "2025-09-09",
+    "linkedin": "jaruwat-panturat-147b05b7",
+    "avatar": "/avatars/jaruwat-panturat.jpeg"
   }
 ]
