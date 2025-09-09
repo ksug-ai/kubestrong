@@ -21,7 +21,8 @@
     "github": "yongkanghe",
     "certs": [
       "kubestrong",
-      "awstronaut"
+      "awstronaut",
+      "kubestronaut"
     ],
     "city": "Melbourne",
     "country": "Australia",
@@ -38,7 +39,7 @@
       "kubestrong",
       "awstronaut"
     ],
-    "city": "Caberra",
+    "city": "Canberra",
     "country": "Australia",
     "date": "2025-05-05",
     "linkedin": "dennisjohnkn",
