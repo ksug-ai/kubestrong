@@ -463,5 +463,21 @@
     "date": "2025-09-09",
     "linkedin": "jaruwat-panturat-147b05b7",
     "avatar": "/avatars/jaruwat-panturat.jpeg"
+  },
+  {
+    "name": "Insu Kim",
+    "github": "ahinsutime",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "kubestronaut"
+    ],
+    "city": "Seoul",
+    "country": "South Korea",
+    "date": "2025-08-18",
+    "bio": "Golden Kubestronaut | AI Platform (Kubernetes) Engineer | MLOps Engineer | Open Source Contributor (vLLM community, CNCF projects) | Web Backend Developer",
+    "linkedin": "insukim1994",
+    "website": "https://www.linkedin.com/in/insukim1994/",
+    "avatar": "/avatars/insu_kim.jpeg"
   }
 ]
