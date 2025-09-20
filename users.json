@@ -479,5 +479,21 @@
     "linkedin": "insukim1994",
     "website": "https://www.linkedin.com/in/insukim1994/",
     "avatar": "/avatars/insu_kim.jpeg"
+  },
+  {
+    "name": "Caliendo Julien",
+    "github": "caliendojulien",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "kubestronaut"
+    ],
+    "city": "Nantes",
+    "country": "France",
+    "date": "2025-09-20",
+    "bio": "Golden Kubestronaut | Freelance | Open Source lover",
+    "linkedin": "caliendojulien",
+    "website": "https://www.linkedin.com/in/caliendojulien/",
+    "avatar": "/avatars/caliendo.png"
   }
 ]
