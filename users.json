@@ -508,5 +508,17 @@
     "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect Pro | AWS Certified Advanced Networking – Specialty| AWS Certified Security – Specialty | Azure Solutions Architect Expert | Oracle Cloud Infrastructure 2019 Certified Architect Professional | 50+ badges on Credly",
     "linkedin": "hardeeptiwana",
     "avatar": "/avatars/Hardeep-Tiwana.png"
-  }
+  },
+  {
+    "name": "Duc Anh Luu",
+    "github": "ducanhmit",
+    "certs": ["kubestrong", "awstronaut", "kubestronaut"],
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "date": "2025-10-12",
+    "bio": "Solutions Architect | CISSP | PMP | 12x AWS Certified | Kubestronaut | Passionate about Cloud Security & Architecture",
+    "linkedin": "duc-anh-luu",
+    "website": "https://www.credly.com/users/anh-luu-duc/",
+    "avatar": "/avatars/ducanhluu.jpg"
+ }
 ]
