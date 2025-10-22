@@ -108,8 +108,9 @@
   {
     "name": "Shinji AIBARA",
     "certs": [
-      "kubestrong",
-      "awstronaut"
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
     ],
     "city": "Fujisawa",
     "country": "Japan",
@@ -343,7 +344,7 @@
     "name": "Gijs Middelkamp",
     "github": "gkwmiddelkamp",
     "certs": [
-      "kubestrong", 
+      "kubestrong",
       "Golden Kubestronaut"
     ],
     "city": "Hengelo",
@@ -356,7 +357,7 @@
     "name": "Alessandro Vozza",
     "github": "ams0",
     "certs": [
-      "kubestrong", 
+      "kubestrong",
       "Golden Kubestronaut"
     ],
     "city": "Amsterdam",
@@ -377,7 +378,7 @@
     "linkedin": "yevhen-skyba",
     "avatar": "/avatars/yevhenskyba.jpg"
   },
-    {
+  {
     "name": "Julio C. Martinez",
     "github": "julio-martinez",
     "certs": [
@@ -405,7 +406,7 @@
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/ShaoyiLi.png"
   },
-    {
+  {
     "name": "DevonPatrick Adkins",
     "github": "deadki0001",
     "certs": [
@@ -415,7 +416,7 @@
     "city": "George",
     "country": "South Africa",
     "date": "2025-08-07",
-    "bio": "AWS Community Builder | 5x Cisco Champion | kubestronaut | Awstronaut | Senior DevOps Consultant", 
+    "bio": "AWS Community Builder | 5x Cisco Champion | kubestronaut | Awstronaut | Senior DevOps Consultant",
     "twitter": "deadkideveloper",
     "linkedin": "devonpatrick-adkins-1068781a3",
     "website": "deadkithedeveloper.click",
@@ -427,7 +428,7 @@
     "certs": [
       "golden kubestrong",
       "awstronaut",
-      "golden kubestronaut" 
+      "golden kubestronaut"
     ],
     "city": "Zürich",
     "country": "Switzerland",
@@ -454,7 +455,7 @@
   {
     "name": "Jaruwat Panturat",
     "certs": [
-      "kubestrong",      
+      "kubestrong",
       "golden kubestronaut",
       "kubestronaut"
     ],
@@ -512,7 +513,11 @@
   {
     "name": "Duc Anh Luu",
     "github": "ducanhmit",
-    "certs": ["kubestrong", "awstronaut", "kubestronaut"],
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Hanoi",
     "country": "Vietnam",
     "date": "2025-10-12",
@@ -520,5 +525,5 @@
     "linkedin": "duc-anh-luu",
     "website": "https://www.credly.com/users/anh-luu-duc/",
     "avatar": "/avatars/ducanhluu.jpg"
- }
+  }
 ]
