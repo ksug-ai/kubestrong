@@ -525,5 +525,24 @@
     "linkedin": "duc-anh-luu",
     "website": "https://www.credly.com/users/anh-luu-duc/",
     "avatar": "/avatars/ducanhluu.jpg"
+  },
+  {
+    "name": "Santhosh NC",
+    "github": "SanthoshNC",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut",
+      "githubstronaut",
+      "gcpstronaut"
+    ],
+    "city": "Erode,Tamil Nadu",
+    "country": "India",
+    "date": "2025-10-22",
+    "bio": "Lead DevSecOps Engineer | Multi-Cloud(Azure,AWS,GCP,OCI) & MLOps Technologist | Building secure, scalable systems & inspiring learners to grow through real-world impact",
+    "twitter": "santhoshnc",
+    "linkedin": "santhoshnc",
+    "website": "https://www.santhoshnc.me",
+    "avatar": "/avatars/santhoshnc.png"
   }
 ]
