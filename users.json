@@ -544,5 +544,21 @@
     "linkedin": "santhoshnc",
     "website": "https://www.santhoshnc.me",
     "avatar": "/avatars/santhoshnc.png"
+  },
+  {
+    "name": "Olivier Calzi",
+    "github": "ocalzi",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Brussels",
+    "country": "Belgium",
+    "date": "2025-12-12",
+    "bio": "Helping firm manage IT infrastructure. | CNCF Golden Kubestronaut",
+    "linkedin": "oliviercalzi",
+    "website": "https://portefolio.calzi.eu",
+    "avatar": "/avatars/ocalzi.png"
   }
 ]
