@@ -560,5 +560,20 @@
     "linkedin": "oliviercalzi",
     "website": "https://portefolio.calzi.eu",
     "avatar": "/avatars/ocalzi.png"
+  },
+  {
+    "name": "Wissem Kadri",
+    "github": "wissemkadri",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Ariana",
+    "country": "Tunisia",
+    "date": "2025-12-24",
+    "bio": "DevOps Engineer | CNCF Golden Kubestronaut ☸️",
+    "linkedin": "wissemkadri",
+    "avatar": "/avatars/wissem-kadri.jpg"
   }
 ]
