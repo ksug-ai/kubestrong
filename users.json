@@ -575,5 +575,19 @@
     "bio": "DevOps Engineer | CNCF Golden Kubestronaut ☸️",
     "linkedin": "wissemkadri",
     "avatar": "/avatars/wissem-kadri.jpg"
-  }
+  },
+  {
+  "name": "Labhesh Hase",
+  "github": "labheshhase",
+  "certs": ["kubestrong",
+			"kubestronaut",
+			"golden kubestronaut",
+			"OCI Certified"],
+  "city": "Mumbai",
+  "country": "India",
+  "date": "2025-12-15",
+  "bio": "CNCF Golden Kubestronaut and Oracle Cloud Architect ",
+  "linkedin": "labhesh-hase",
+  "avatar": "/avatars/labhesh.png"
+}
 ]
