@@ -575,5 +575,20 @@
     "bio": "DevOps Engineer | CNCF Golden Kubestronaut ☸️",
     "linkedin": "wissemkadri",
     "avatar": "/avatars/wissem-kadri.jpg"
-  }
+  },
+  {
+  "name": "Dmytro Slotvinskyi",
+  "github": "dmytroslotvinskyy",
+  "certs": [
+    "kubestrong",
+    "kubestronaut",
+    "golden kubestronaut"
+  ],
+  "city": "Kyiv",
+  "country": "Ukraine",
+  "date": "2025-12-29",
+  "bio": "Senior Azure DevOps Engineer (Azure AI/MLOps) @ Intellias | CNCF Ambassador | Golden Kubestronaut ☸️",
+  "linkedin": "dmytro-slotvinskyi",
+  "avatar": "/avatars/slotvinskyidmytro.jpg"
+}
 ]
