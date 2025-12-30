@@ -2,7 +2,7 @@
 
 ## Welcome to **[kubestrong](https://kubestrong.com/?ref=github)** club! 
 
-The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://awstronaut.com/awstronaut)** and **[kubestronaut](https://kb.ksug.ai)** titles — or hold the **[Golden Kubestronaut](https://gk.ksug.ai)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. 
+The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://awstronaut.com/awstronaut/?ref=github)** and **[kubestronaut](https://kb.ksug.ai)** titles — or hold the **[Golden Kubestronaut](https://gk.ksug.ai)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. 
 
 To submit your profile:
 
