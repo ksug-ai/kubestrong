@@ -620,5 +620,18 @@
   "bio": "CNCF Golden Kubestronaut and Oracle Cloud Architect ",
   "linkedin": "labhesh-hase",
   "avatar": "/avatars/labhesh_sq.jpg"
+},
+{
+  "name": "Daisuke Watarai",
+  "certs": [
+    "kubestrong",
+		"kubestronaut",
+    "awstronaut"
+  ],
+  "city": "Tokyo",
+  "country": "Japan",
+  "date": "2025-12-07",
+  "linkedin": "daisuke-watarai-51846b356",
+  "avatar": "/avatars/daisukewatarai.jpg"
 }
 ]
