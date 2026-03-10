@@ -651,5 +651,19 @@
   "website": "https://sayed-imran.github.io/",
   "twitter": "sayedimrankube",
   "avatar": "/avatars/sayed-imran.jpg"
+},
+{
+  "name": "Cosme Cabello",
+  "github": "ccabelloc",
+  "certs": ["kubestrong",
+			"kubestronaut",
+			"golden kubestronaut",
+			"OCI Certified"],
+  "city": "Santiago",
+  "country": "Chile",
+  "date": "2025-02-09",
+  "bio": "1st Golden Kubestronaut in Chile",
+  "linkedin": "cosmecabello",
+  "avatar": "/avatars/cosmecabello.jpg"
 }
 ]
