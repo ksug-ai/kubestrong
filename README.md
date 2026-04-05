@@ -99,9 +99,9 @@ Together, we’re showcasing the impact of Multi-Cloud certifications and the st
 
 ---
 
-## 📢 Stay Connected with 180,000+ Cloud-Native Enthusiasts! 🎉
+## 📢 Stay Connected with 200,000+ Cloud-Native Enthusiasts! 🎉
 
-Join over **180,000** passionate learners who:
+Join over **200,000** passionate learners who:
 - ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡ 
 - ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
 - ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
