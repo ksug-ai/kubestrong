@@ -578,108 +578,112 @@
     "avatar": "/avatars/wissem-kadri.jpg"
   },
   {
-  "name": "Dmytro Slotvinskyi",
-  "github": "dmytroslotvinskyy",
-  "certs": [
-    "kubestrong",
-    "kubestronaut",
-    "golden kubestronaut"
-  ],
-  "city": "Kyiv",
-  "country": "Ukraine",
-  "date": "2025-12-29",
-  "bio": "Senior Azure DevOps Engineer (Azure AI/MLOps) @ Intellias | CNCF Ambassador | Golden Kubestronaut ☸️",
-  "linkedin": "dmytro-slotvinskyi",
-  "avatar": "/avatars/slotvinskyidmytro.jpg"
-},
-{
-  "name": "Abdelkoddous LHAJOUJI",
-  "github": "lhajouji",
-   "certs": [
-    "kubestrong",
-    "kubestronaut",
-    "golden kubestronaut"
-  ],
-  "city": "Paris",
-  "country": "France",
-  "date": "2026-01-08",
-  "bio": "Solutions Architect | CNCF golden kubestronaut",
-  "twitter": "lhajoujia",
-  "linkedin": "lhajouji",
-  "avatar": "/avatars/lhajouji.jpg"
-},
-{
-  "name": "Labhesh Hase",
-  "github": "labheshhase",
-  "certs": ["kubestrong",
-			"kubestronaut",
-			"golden kubestronaut",
-			"OCI Certified"],
-  "city": "Mumbai",
-  "country": "India",
-  "date": "2025-12-15",
-  "bio": "CNCF Golden Kubestronaut and Oracle Cloud Architect ",
-  "linkedin": "labhesh-hase",
-  "avatar": "/avatars/labhesh_sq.jpg"
-},
-{
-  "name": "Daisuke Watarai",
-  "certs": [
-    "kubestrong",
-		"kubestronaut",
-    "awstronaut"
-  ],
-  "city": "Tokyo",
-  "country": "Japan",
-  "date": "2025-12-07",
-  "linkedin": "daisuke-watarai-51846b356",
-  "avatar": "/avatars/daisukewatarai.jpg"
-},
-{
-  "name": "Sayed Imran",
-  "github": "sayed-imran",
-  "certs": [
-    "kubestrong",
-    "kubestronaut",
-    "golden kubestronaut"
-  ],
-  "city": "Bengaluru",
-  "country": "India",
-  "date": "2026-02-24",
-  "bio": "Golden Kubestronaut ☸️ | CNCG BBSR Co-Organizer | Multi & Hybrid Cloud | 6x Google Cloud Certified | SRE @ 66Degrees | Speaker | Mentor",
-  "linkedin": "sayed-imran",
-  "website": "https://sayed-imran.github.io/",
-  "twitter": "sayedimrankube",
-  "avatar": "/avatars/sayed-imran.jpg"
-},
-{
-  "name": "Cosme Cabello",
-  "github": "ccabelloc",
-  "certs": ["kubestrong",
-			"kubestronaut",
-			"golden kubestronaut",
-			"OCI Certified"],
-  "city": "Santiago",
-  "country": "Chile",
-  "date": "2025-02-09",
-  "bio": "1st Golden Kubestronaut in Chile",
-  "linkedin": "cosmecabello",
-  "avatar": "/avatars/cosmecabello.jpg"
-},
-{
-  "name": "Baikuntha Bana Bihari Sahoo",
-  "github": "baikunthasahoo",
-  "certs": [
-	"kubestrong",
-    "kubestronaut",
-    "golden kubestronaut"],
-  "city": "Rourkela",
-  "country": "India",
-  "date": "2026-03-03",
-  "bio": "CNCF Golden Kubestronaut ☸️  and AWS  Cloud Architect  | Multi-Cloud |  10K Social Reach",
-  "twitter": "gacrbb",
-  "linkedin": "baikuntha-sahoo",
-  "website": "https://www.credly.com/users/baikuntha-bana-bihari-sahoo",
-  "avatar": "avatars/Baikuntha Bana Bihari Sahoo .png"
-}
+    "name": "Dmytro Slotvinskyi",
+    "github": "dmytroslotvinskyy",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "date": "2025-12-29",
+    "bio": "Senior Azure DevOps Engineer (Azure AI/MLOps) @ Intellias | CNCF Ambassador | Golden Kubestronaut ☸️",
+    "linkedin": "dmytro-slotvinskyi",
+    "avatar": "/avatars/slotvinskyidmytro.jpg"
+  },
+  {
+    "name": "Abdelkoddous LHAJOUJI",
+    "github": "lhajouji",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Paris",
+    "country": "France",
+    "date": "2026-01-08",
+    "bio": "Solutions Architect | CNCF golden kubestronaut",
+    "twitter": "lhajoujia",
+    "linkedin": "lhajouji",
+    "avatar": "/avatars/lhajouji.jpg"
+  },
+  {
+    "name": "Labhesh Hase",
+    "github": "labheshhase",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut",
+      "OCI Certified"
+    ],
+    "city": "Mumbai",
+    "country": "India",
+    "date": "2025-12-15",
+    "bio": "CNCF Golden Kubestronaut and Oracle Cloud Architect ",
+    "linkedin": "labhesh-hase",
+    "avatar": "/avatars/labhesh_sq.jpg"
+  },
+  {
+    "name": "Daisuke Watarai",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-12-07",
+    "linkedin": "daisuke-watarai-51846b356",
+    "avatar": "/avatars/daisukewatarai.jpg"
+  },
+  {
+    "name": "Sayed Imran",
+    "github": "sayed-imran",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2026-02-24",
+    "bio": "Golden Kubestronaut ☸️ | CNCG BBSR Co-Organizer | Multi & Hybrid Cloud | 6x Google Cloud Certified | SRE @ 66Degrees | Speaker | Mentor",
+    "linkedin": "sayed-imran",
+    "website": "https://sayed-imran.github.io/",
+    "twitter": "sayedimrankube",
+    "avatar": "/avatars/sayed-imran.jpg"
+  },
+  {
+    "name": "Cosme Cabello",
+    "github": "ccabelloc",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut",
+      "OCI Certified"
+    ],
+    "city": "Santiago",
+    "country": "Chile",
+    "date": "2025-02-09",
+    "bio": "1st Golden Kubestronaut in Chile",
+    "linkedin": "cosmecabello",
+    "avatar": "/avatars/cosmecabello.jpg"
+  },
+  {
+    "name": "Baikuntha Bana Bihari Sahoo",
+    "github": "baikunthasahoo",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Rourkela",
+    "country": "India",
+    "date": "2026-03-03",
+    "bio": "CNCF Golden Kubestronaut ☸️  and AWS  Cloud Architect  | Multi-Cloud |  10K Social Reach",
+    "twitter": "gacrbb",
+    "linkedin": "baikuntha-sahoo",
+    "website": "https://www.credly.com/users/baikuntha-bana-bihari-sahoo"
+  }
 ]
