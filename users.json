@@ -686,5 +686,20 @@
     "twitter": "gacrbb",
     "linkedin": "baikuntha-sahoo",
     "website": "https://www.credly.com/users/baikuntha-bana-bihari-sahoo"
+  },
+  {
+    "name": "Percy Escalante",
+    "github": "PercyUkn",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Lima",
+    "country": "Peru",
+    "date": "2026-02-09",
+    "bio": "Golden Kubestronaut | AWS DevOps Engineer",
+    "linkedin": "percy-escalante-barriga",
+    "avatar": "/avatars/percyescalante.jpg"
   }
 ]
