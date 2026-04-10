@@ -686,5 +686,16 @@
     "twitter": "gacrbb",
     "linkedin": "baikuntha-sahoo",
     "website": "https://www.credly.com/users/baikuntha-bana-bihari-sahoo"
-  }
+ },
+ {
+    "name": "Geoffrey Shelton Okot",
+  "github": "sheltong",
+  "certs": ["Golden kubestronaut, kubestrong"],
+  "city": "Geneva",
+  "country":  "Switzerland",
+  "date": "2026-01-26",
+  "bio": "Golden kubestronaut | kubestrong | Azure | ArgoCD | Backstage | AI | Kyverno | DevOps | GitHub | SRE | GitOps | Databricks | Python | Docker |Ansible | Terraform | DevSecOps | Snowflake  | Openshift | AWS | ISTIO | HELM | CI/CD", 
+  "linkedin": "sheltong",
+  "avatar": "/avatars/shelton.png"
+}
 ]
