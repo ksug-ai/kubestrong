@@ -697,5 +697,17 @@
   "bio": "Golden kubestronaut | kubestrong | Azure | ArgoCD | Backstage | AI | Kyverno | DevOps | GitHub | SRE | GitOps | Databricks | Python | Docker |Ansible | Terraform | DevSecOps | Snowflake  | Openshift | AWS | ISTIO | HELM | CI/CD", 
   "linkedin": "sheltong",
   "avatar": "/avatars/shelton.png"
+},
+{
+  "name": "Manmohan Mirkar",
+  "github": "manmohanmirkar123",
+  "certs": ["Golden kubestronaut, kubestrong, Microsoft Certified DevOps Engineer Expert"],
+  "city": "Thane",
+  "country":  "India",
+  "date": "2025-12-29",
+  "bio": "Golden kubestronaut | kubestrong | Azure | Python | Docker | Saltstack | Terraform | AWS | ISTIO | HELM | CI/CD", 
+  "linkedin": "manmohan-mirkar-b3aa17203",
+  "avatar": "/avatars/manmohan.png",
+  "website": "https://linuxroutes.com"
 }
 ]
