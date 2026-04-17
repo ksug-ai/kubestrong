@@ -1,136 +1,45 @@
 [
   {
-    "name": "Abdelkoddous LHAJOUJI",
-    "github": "lhajouji",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Paris",
-    "country": "France",
-    "date": "2026-01-08",
-    "bio": "Solutions Architect | CNCF golden kubestronaut",
-    "twitter": "lhajoujia",
-    "linkedin": "lhajouji",
-    "avatar": "/avatars/lhajouji.jpg"
-  },
-  {
-    "name": "Albert Zhu",
-    "github": "Albertzue",
-    "certs": ["kubestrong","golden kubestronaut"],
-    "city": "Shanghai",
-    "country": "China",
-    "date": "2025-05-17",
-    "linkedin": "albertzhu88",
-    "avatar": "/avatars/albertzhu.png"
-  },
-  {
-    "name": "Alessandro Vozza",
-    "github": "ams0",
-    "certs": ["kubestrong","Golden Kubestronaut"],
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "date": "2025-07-09",
-    "linkedin": "lessandrovozza",
-    "avatar": "/avatars/alessandro-vozza.jpg"
-  },
-  {
-    "name": "Allen R. Chan",
-    "github": "allenrchan",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Sunnyvale",
+    "name": "Yujun Liang",
+    "github": "yujunliang",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Dallas",
     "country": "USA",
-    "date": "2024-12 Asc 11",
-    "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
-    "linkedin": "allenchan",
-    "website": "https://aidr.dev",
-    "avatar": "/avatars/allen-r-chan.png"
+    "date": "2024-07-01",
+    "bio": "Certification King | kubestrong | awstronaut | kubestronaut | AWS Builder | Google GDE 2025 | Multi-Cloud",
+    "twitter": "yujunliang",
+    "linkedin": "yujunliang",
+    "website": "",
+    "avatar": "/avatars/yujunliang.png"
   },
   {
-    "name": "Ana Pedra",
-    "github": "redjules",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Zürich",
-    "country": "Switzerland",
-    "date": "2025-08-26",
-    "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
-    "linkedin": "anapedra",
-    "avatar": "/avatars/Ana_Pedra.jpeg"
-  },
-  {
-    "name": "Baikuntha Bana Bihari Sahoo",
-    "github": "baikunthasahoo",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Rourkela",
-    "country": "India",
-    "date": "2026-03-03",
-    "bio": "CNCF Golden Kubestronaut ☸️  and AWS  Cloud Architect  | Multi-Cloud |  10K Social Reach",
-    "twitter": "gacrbb",
-    "linkedin": "baikuntha-sahoo",
-    "website": "https://www.credly.com/users/baikuntha-bana-bihari-sahoo"
-  },
-  {
-    "name": "Bangaly KABA, PhD",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Paris",
-    "country": "France",
-    "date": "2025-05-05",
-    "linkedin": "bangaly-kaba-phd-6aa51925",
-    "avatar": "/avatars/bangalykaba.png"
-  },
-  {
-    "name": "Boris Bradić",
-    "github": "borisbradic",
-    "certs": ["awstronaut","kubestronaut"],
-    "city": "Kiseljak",
-    "country": "Bosnia and Herzegovina",
-    "date": "2025-08-16",
-    "bio": "DevOps Engineer focused on Kubernetes, containers, networking, and security. A continuous learner who likes to share knowledge and help others in the learning process. Member of the AWS Community Builders program in Containers category",
-    "twitter": "boris_bradic",
-    "linkedin": "borisbradic",
-    "avatar": "/avatars/borisbradic.jpg"
-  },
-  {
-    "name": "Bolivar David Llerena Fuenmayor",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Quito",
-    "country": "Ecuador",
-    "date": "2025-05-05",
-    "linkedin": "bdllerena",
-    "avatar": "/avatars/bolivardavidllerenafuenmayor.png"
-  },
-  {
-    "name": "Caliendo Julien",
-    "github": "caliendojulien",
-    "certs": ["kubestrong","golden kubestronaut","kubestronaut"],
-    "city": "Nantes",
-    "country": "France",
-    "date": "2025-09-20",
-    "bio": "Golden Kubestronaut | Freelance | Open Source lover",
-    "linkedin": "caliendojulien",
-    "website": "https://www.linkedin.com/in/caliendojulien/",
-    "avatar": "/avatars/caliendo.png"
-  },
-  {
-    "name": "Cosme Cabello",
-    "github": "ccabelloc",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut","OCI Certified"],
-    "city": "Santiago",
-    "country": "Chile",
-    "date": "2025-02-09",
-    "bio": "1st Golden Kubestronaut in Chile",
-    "linkedin": "cosmecabello",
-    "avatar": "/avatars/cosmecabello.jpg"
-  },
-  {
-    "name": "Daisuke Watarai",
-    "certs": ["kubestrong","kubestronaut","awstronaut"],
-    "city": "Tokyo",
-    "country": "Japan",
-    "date": "2025-12-07",
-    "linkedin": "daisuke-watarai-51846b356",
-    "avatar": "/avatars/daisukewatarai.jpg"
+    "name": "Yongkang He",
+    "github": "yongkanghe",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2024-07-01",
+    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+    "twitter": "yongkanghe",
+    "linkedin": "yongkanghe",
+    "website": "https://ksug.ai",
+    "avatar": "/avatars/yongkanghe.png"
   },
   {
     "name": "Dennis John",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"      
+    ],
     "city": "Canberra",
     "country": "Australia",
     "date": "2025-05-05",
@@ -138,9 +47,374 @@
     "avatar": "/avatars/dennisjohn.png"
   },
   {
+    "name": "Leonid Kopylov",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Ashkelon",
+    "country": "Israel",
+    "date": "2025-05-05",
+    "linkedin": "leonchik1976",
+    "avatar": "/avatars/leonidkopylov.png"
+  },
+  {
+    "name": "Bangaly KABA, PhD",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Paris",
+    "country": "France",
+    "date": "2025-05-05",
+    "linkedin": "bangaly-kaba-phd-6aa51925",
+    "avatar": "/avatars/bangalykaba.png"
+  },
+  {
+    "name": "Sammy Cheung",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Austin",
+    "country": "USA",
+    "date": "2025-05-05",
+    "linkedin": "sammy-cheung",
+    "avatar": "/avatars/sammycheung.png"
+  },
+  {
+    "name": "Stanislav Kolenkin",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Warsaw",
+    "country": "Poland",
+    "date": "2025-05-05",
+    "linkedin": "stanislav-kolenkin-4b6b96a",
+    "avatar": "/avatars/stanislavkolenkin.png"
+  },
+  {
+    "name": "Bolivar David Llerena Fuenmayor",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Quito",
+    "country": "Ecuador",
+    "date": "2025-05-05",
+    "linkedin": "bdllerena",
+    "avatar": "/avatars/bolivardavidllerenafuenmayor.png"
+  },
+  {
+    "name": "Shinji AIBARA",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Fujisawa",
+    "country": "Japan",
+    "date": "2025-05-05",
+    "linkedin": "shinji-aibara-595a26329",
+    "avatar": "/avatars/shinjiaibara.png"
+  },
+  {
+    "name": "Junichi Miyagawa",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-05-05",
+    "linkedin": "junichi-miyagawa-ab67bb228",
+    "avatar": "/avatars/junichimiyagawa.png"
+  },
+  {
+    "name": "Geoff Loh",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Auckland",
+    "country": "New Zealand",
+    "date": "2025-05-05",
+    "linkedin": "geoff-loh",
+    "avatar": "/avatars/geoffloh.png"
+  },
+  {
+    "name": "Jason Khoi",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2025-05-05",
+    "linkedin": "jason-khoi-977b231a1",
+    "avatar": "/avatars/jasonkhoi.png"
+  },
+  {
+    "name": "Ihor Matsapura",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "date": "2025-05-05",
+    "linkedin": "ihor-matsapura",
+    "avatar": "/avatars/ihormatsapura.png"
+  },
+  {
+    "name": "V-ris Jaijongrak",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Bangkok",
+    "country": "Thailand",
+    "date": "2025-05-05",
+    "linkedin": "v-ris-jaijongrak",
+    "avatar": "/avatars/vrisjaijongrak.png"
+  },
+  {
+    "name": "Eric Schüler",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Nuremberg",
+    "country": "Germany",
+    "date": "2025-05-05",
+    "linkedin": "ericschueler",
+    "avatar": "/avatars/ericschueler.png"
+  },
+  {
+    "name": "Yuriy Bezsonov",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Paderborn",
+    "country": "Germany",
+    "date": "2025-05-05",
+    "linkedin": "yuriybezsonov",
+    "avatar": "/avatars/yuriybezsonov.png"
+  },
+  {
+    "name": "Dinesh Singh Bisht",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2025-05-05",
+    "linkedin": "dineshsinghbisht",
+    "avatar": "/avatars/dineshsinghbisht.png"
+  },
+  {
+    "name": "Doddy Kristianto",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut"
+    ],
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "date": "2025-05-14",
+    "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect & DevOps Pro | MTI, 3xVCP[DCV, Cloud, NSX], 2xVCAP[DCA,DCD] ",
+    "linkedin": "doddy-kristianto-3888ba1a",
+    "avatar": "/avatars/doddykristianto.png"
+  },
+  {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut"
+    ],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2025-05-17",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
+  },
+  {
+    "name": "Allen R. Chan",
+    "github": "allenrchan",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Sunnyvale",
+    "country": "USA",
+    "date": "2024-12-11",
+    "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
+    "linkedin": "allenchan",
+    "website": "https://aidr.dev",
+    "avatar": "/avatars/allen-r-chan.png"
+  },
+  {
+    "name": "Pedro Célestin",
+    "github": "pedrocrc",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut"
+    ],
+    "city": "Brasília",
+    "country": "Brazil",
+    "date": "2025-04-10",
+    "bio": "Principal SRE | CNCF Kubestronaut & Golden Kubestronaut | 10x AWS | 6x GCP | 2x Azure",
+    "linkedin": "pedrocrc",
+    "avatar": "/avatars/pedrocelestin.jpg"
+  },
+  {
+    "name": "Kris Musard",
+    "github": "kmusard",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "CISSP"
+    ],
+    "city": "DC",
+    "country": "USA",
+    "date": "2025-05-24",
+    "bio": "SOC 2 Compliance Lead | CISSP | CNCF Golden Kubestronaut | 15+ Cloud/Cyber Certs | GenAI | Scaling Trust for Startups",
+    "linkedin": "kris-musard",
+    "avatar": "/avatars/krismusard.jpg"
+  },
+  {
+    "name": "François Meulenberg",
+    "github": "GoatFather013",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut",
+      "SAP-C02",
+      "SCS-C02"
+    ],
+    "city": "Schiphol-Rijk",
+    "country": "Netherlands",
+    "date": "2025-04-10",
+    "bio": "CNCF Golden Kubestronaut | 6 AWS Certs | Helping others becoming Greater",
+    "linkedin": "fmeulenberg",
+    "avatar": "/avatars/francois-meulenberg.jpg"
+  },
+  {
+    "name": "Pragesh Trivedi",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "date": "2025-05-17",
+    "linkedin": "prageshtrivedi",
+    "avatar": "/avatars/tpragesh.png"
+  },
+  {
+    "name": "Kimi Huang",
+    "github": "shiningmosquito",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "date": "2024-06-17",
+    "linkedin": "yu-lin-huang-b2096a87",
+    "avatar": "/avatars/kimihuang.png"
+  },
+  {
+    "name": "Maxim Filipovich",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Warsaw",
+    "country": "Poland",
+    "date": "2025-06-27",
+    "linkedin": "maxim-filipovich-61771223",
+    "avatar": "/avatars/maxim_filipovich.jpg"
+  },
+  {
+    "name": "Gijs Middelkamp",
+    "github": "gkwmiddelkamp",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "Hengelo",
+    "country": "Netherlands",
+    "date": "2025-06-27",
+    "linkedin": "gmiddelkamp",
+    "avatar": "/avatars/gijs-middelkamp.png"
+  },
+  {
+    "name": "Alessandro Vozza",
+    "github": "ams0",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "date": "2025-07-09",
+    "linkedin": "lessandrovozza",
+    "avatar": "/avatars/alessandro-vozza.jpg"
+  },
+  {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
+  },
+  {
+    "name": "Julio C. Martinez",
+    "github": "julio-martinez",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "San Antonio",
+    "country": "USA",
+    "date": "2025-07-17",
+    "linkedin": "juliomartinez67",
+    "avatar": "/avatars/julio.jpg"
+  },
+  {
+    "name": "Shaoyi Li",
+    "github": "szl0144",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Jacksonville",
+    "country": "USA",
+    "date": "2025-07-21",
+    "bio": "Lead Cloud Engineer | AWS Hero | 89x AWS Badges | AWS UG China Leader | 145K+ followers",
+    "linkedin": "shaoyi-li-cloud",
+    "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
+    "avatar": "/avatars/ShaoyiLi.png"
+  },
+  {
     "name": "DevonPatrick Adkins",
     "github": "deadki0001",
-    "certs": ["kubestrong","awstronaut"],
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
     "city": "George",
     "country": "South Africa",
     "date": "2025-08-07",
@@ -151,109 +425,56 @@
     "avatar": "/avatars/devona.png"
   },
   {
-    "name": "Dinesh Singh Bisht",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Helsinki",
-    "country": "Finland",
-    "date": "2025-05-05",
-    "linkedin": "dineshsinghbisht",
-    "avatar": "/avatars/dineshsinghbisht.png"
-  },
-  {
-    "name": "Doddy Kristianto",
-    "certs": ["kubestrong","golden kubestronaut"],
-    "city": "Jakarta",
-    "country": "Indonesia",
-    "date": "2025-05-14",
-    "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect & DevOps Pro | MTI, 3xVCP[DCV, Cloud, NSX], 2xVCAP[DCA,DCD] ",
-    "linkedin": "doddy-kristianto-3888ba1a",
-    "avatar": "/avatars/doddykristianto.png"
-  },
-  {
-    "name": "Duc Anh Luu",
-    "github": "ducanhmit",
-    "certs": ["kubestrong","awstronaut","kubestronaut"],
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "date": "2025-10-12",
-    "bio": "Solutions Architect | CISSP | PMP | 12x AWS Certified | Kubestronaut | Passionate about Cloud Security & Architecture",
-    "linkedin": "duc-anh-luu",
-    "website": "https://www.credly.com/users/anh-luu-duc/",
-    "avatar": "/avatars/ducanhluu.jpg"
-  },
-  {
-    "name": "Eric Schüler",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Nuremberg",
-    "country": "Germany",
-    "date": "2025-05-05",
-    "linkedin": "ericschueler",
-    "avatar": "/avatars/ericschueler.png"
-  },
-  {
-    "name": "François Meulenberg",
-    "github": "GoatFather013",
-    "certs": ["kubestrong","Golden Kubestronaut","SAP-C02","SCS-C02"],
-    "city": "Schiphol-Rijk",
-    "country": "Netherlands",
-    "date": "2025-04-10",
-    "bio": "CNCF Golden Kubestronaut | 6 AWS Certs | Helping others becoming Greater",
-    "linkedin": "fmeulenberg",
-    "avatar": "/avatars/francois-meulenberg.jpg"
-  },
-  {
-    "name": "Geoff Loh",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Auckland",
-    "country": "New Zealand",
-    "date": "2025-05-05",
-    "linkedin": "geoff-loh",
-    "avatar": "/avatars/geoffloh.png"
-  },
-  {
-    "name": "Geoffrey Shelton Okot",
-    "github": "sheltong",
-    "certs": ["Golden kubestronaut, kubestrong"],
-    "city": "Geneva",
+    "name": "Ana Pedra",
+    "github": "redjules",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Zürich",
     "country": "Switzerland",
-    "date": "2026-01-26",
-    "bio": "Golden kubestronaut | kubestrong | Azure | ArgoCD | Backstage | AI | Kyverno | DevOps | GitHub | SRE | GitOps | Databricks | Python | Docker |Ansible | Terraform | DevSecOps | Snowflake  | Openshift | AWS | ISTIO | HELM | CI/CD",
-    "linkedin": "sheltong",
-    "avatar": "/avatars/shelton.png"
+    "date": "2025-08-26",
+    "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
+    "linkedin": "anapedra",
+    "avatar": "/avatars/Ana_Pedra.jpeg"
   },
   {
-    "name": "Gijs Middelkamp",
-    "github": "gkwmiddelkamp",
-    "certs": ["kubestrong","Golden Kubestronaut"],
-    "city": "Hengelo",
-    "country": "Netherlands",
-    "date": "2025-06-27",
-    "linkedin": "gmiddelkamp",
-    "avatar": "/avatars/gijs-middelkamp.png"
+    "name": "Boris Bradić",
+    "github": "borisbradic",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Kiseljak",
+    "country": "Bosnia and Herzegovina",
+    "date": "2025-08-16",
+    "bio": "DevOps Engineer focused on Kubernetes, containers, networking, and security. A continuous learner who likes to share knowledge and help others in the learning process. Member of the AWS Community Builders program in Containers category",
+    "twitter": "boris_bradic",
+    "linkedin": "borisbradic",
+    "avatar": "/avatars/borisbradic.jpg"
   },
   {
-    "name": "Hardeep Singh Tiwana",
-    "certs": ["kubestrong","golden kubestronaut"],
-    "city": "Mountain House, California",
-    "country": "USA",
-    "date": "2025-10-04",
-    "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect Pro | AWS Certified Advanced Networking – Specialty| AWS Certified Security – Specialty | Azure Solutions Architect Expert | Oracle Cloud Infrastructure 2019 Certified Architect Professional | 50+ badges on Credly",
-    "linkedin": "hardeeptiwana",
-    "avatar": "/avatars/Hardeep-Tiwana.png"
-  },
-  {
-    "name": "Ihor Matsapura",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "date": "2025-05-05",
-    "linkedin": "ihor-matsapura",
-    "avatar": "/avatars/ihormatsapura.png"
+    "name": "Jaruwat Panturat",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "kubestronaut"
+    ],
+    "city": "Bangkok",
+    "country": "Thailand",
+    "date": "2025-09-09",
+    "linkedin": "jaruwat-panturat-147b05b7",
+    "avatar": "/avatars/jaruwat-panturat.jpeg"
   },
   {
     "name": "Insu Kim",
     "github": "ahinsutime",
-    "certs": ["kubestrong","golden kubestronaut","kubestronaut"],
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "kubestronaut"
+    ],
     "city": "Seoul",
     "country": "South Korea",
     "date": "2025-08-18",
@@ -263,67 +484,140 @@
     "avatar": "/avatars/insu_kim.jpeg"
   },
   {
-    "name": "Jaruwat Panturat",
-    "certs": ["kubestrong","golden kubestronaut","kubestronaut"],
-    "city": "Bangkok",
-    "country": "Thailand",
-    "date": "2025-09-09",
-    "linkedin": "jaruwat-panturat-147b05b7",
-    "avatar": "/avatars/jaruwat-panturat.jpeg"
+    "name": "Caliendo Julien",
+    "github": "caliendojulien",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "kubestronaut"
+    ],
+    "city": "Nantes",
+    "country": "France",
+    "date": "2025-09-20",
+    "bio": "Golden Kubestronaut | Freelance | Open Source lover",
+    "linkedin": "caliendojulien",
+    "website": "https://www.linkedin.com/in/caliendojulien/",
+    "avatar": "/avatars/caliendo.png"
   },
   {
-    "name": "Jason Khoi",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Melbourne",
-    "country": "Australia",
-    "date": "2025-05-05",
-    "linkedin": "jason-khoi-977b231a1",
-    "avatar": "/avatars/jasonkhoi.png"
-  },
-  {
-    "name": "Julio C. Martinez",
-    "github": "julio-martinez",
-    "certs": ["kubestrong","Golden Kubestronaut"],
-    "city": "San Antonio",
+    "name": "Hardeep Singh Tiwana",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut"
+    ],
+    "city": "Mountain House, California",
     "country": "USA",
-    "date": "2025-07-17",
-    "linkedin": "juliomartinez67",
-    "avatar": "/avatars/julio.jpg"
+    "date": "2025-10-04",
+    "bio": "Kubestrong | CNCF Kubestronaut & Golden Kubestronaut | AWS Solution Architect Pro | AWS Certified Advanced Networking – Specialty| AWS Certified Security – Specialty | Azure Solutions Architect Expert | Oracle Cloud Infrastructure 2019 Certified Architect Professional | 50+ badges on Credly",
+    "linkedin": "hardeeptiwana",
+    "avatar": "/avatars/Hardeep-Tiwana.png"
   },
   {
-    "name": "Junichi Miyagawa",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Tokyo",
-    "country": "Japan",
-    "date": "2025-05-05",
-    "linkedin": "junichi-miyagawa-ab67bb228",
-    "avatar": "/avatars/junichimiyagawa.png"
+    "name": "Duc Anh Luu",
+    "github": "ducanhmit",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "date": "2025-10-12",
+    "bio": "Solutions Architect | CISSP | PMP | 12x AWS Certified | Kubestronaut | Passionate about Cloud Security & Architecture",
+    "linkedin": "duc-anh-luu",
+    "website": "https://www.credly.com/users/anh-luu-duc/",
+    "avatar": "/avatars/ducanhluu.jpg"
   },
   {
-    "name": "Kimi Huang",
-    "github": "shiningmosquito",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Kaohsiung",
-    "country": "Taiwan",
-    "date": "2024-06-17",
-    "linkedin": "yu-lin-huang-b2096a87",
-    "avatar": "/avatars/kimihuang.png"
+    "name": "Santhosh NC",
+    "github": "SanthoshNC",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut",
+      "githubstronaut",
+      "gcpstronaut"
+    ],
+    "city": "Erode,Tamil Nadu",
+    "country": "India",
+    "date": "2025-10-22",
+    "bio": "Lead DevSecOps Engineer | Multi-Cloud(Azure,AWS,GCP,OCI) & MLOps Technologist | Building secure, scalable systems & inspiring learners to grow through real-world impact",
+    "twitter": "santhoshnc",
+    "linkedin": "santhoshnc",
+    "website": "https://www.santhoshnc.me",
+    "avatar": "/avatars/santhoshnc.png"
   },
   {
-    "name": "Kris Musard",
-    "github": "kmusard",
-    "certs": ["kubestrong","golden kubestronaut","CISSP"],
-    "city": "DC",
-    "country": "USA",
-    "date": "2025-05-24",
-    "bio": "SOC 2 Compliance Lead | CISSP | CNCF Golden Kubestronaut | 15+ Cloud/Cyber Certs | GenAI | Scaling Trust for Startups",
-    "linkedin": "kris-musard",
-    "avatar": "/avatars/krismusard.jpg"
+    "name": "Olivier Calzi",
+    "github": "ocalzi",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Brussels",
+    "country": "Belgium",
+    "date": "2025-12-12",
+    "bio": "Helping firm manage IT infrastructure. | CNCF Golden Kubestronaut",
+    "linkedin": "oliviercalzi",
+    "website": "https://portefolio.calzi.eu",
+    "avatar": "/avatars/ocalzi.png"
+  },
+  {
+    "name": "Wissem Kadri",
+    "github": "wissemkadri",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Ariana",
+    "country": "Tunisia",
+    "date": "2025-12-24",
+    "bio": "DevOps Engineer | CNCF Golden Kubestronaut ☸️",
+    "linkedin": "wissemkadri",
+    "avatar": "/avatars/wissem-kadri.jpg"
+  },
+  {
+    "name": "Dmytro Slotvinskyi",
+    "github": "dmytroslotvinskyy",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "date": "2025-12-29",
+    "bio": "Senior Azure DevOps Engineer (Azure AI/MLOps) @ Intellias | CNCF Ambassador | Golden Kubestronaut ☸️",
+    "linkedin": "dmytro-slotvinskyi",
+    "avatar": "/avatars/slotvinskyidmytro.jpg"
+  },
+  {
+    "name": "Abdelkoddous LHAJOUJI",
+    "github": "lhajouji",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Paris",
+    "country": "France",
+    "date": "2026-01-08",
+    "bio": "Solutions Architect | CNCF golden kubestronaut",
+    "twitter": "lhajoujia",
+    "linkedin": "lhajouji",
+    "avatar": "/avatars/lhajouji.jpg"
   },
   {
     "name": "Labhesh Hase",
     "github": "labheshhase",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut","OCI Certified"],
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut",
+      "OCI Certified"
+    ],
     "city": "Mumbai",
     "country": "India",
     "date": "2025-12-15",
@@ -332,13 +626,92 @@
     "avatar": "/avatars/labhesh_sq.jpg"
   },
   {
-    "name": "Leonid Kopylov",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Ashkelon",
-    "country": "Israel",
-    "date": "2025-05-05",
-    "linkedin": "leonchik1976",
-    "avatar": "/avatars/leonidkopylov.png"
+    "name": "Daisuke Watarai",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-12-07",
+    "linkedin": "daisuke-watarai-51846b356",
+    "avatar": "/avatars/daisukewatarai.jpg"
+  },
+  {
+    "name": "Sayed Imran",
+    "github": "sayed-imran",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2026-02-24",
+    "bio": "Golden Kubestronaut ☸️ | CNCG BBSR Co-Organizer | Multi & Hybrid Cloud | 6x Google Cloud Certified | SRE @ 66Degrees | Speaker | Mentor",
+    "linkedin": "sayed-imran",
+    "website": "https://sayed-imran.github.io/",
+    "twitter": "sayedimrankube",
+    "avatar": "/avatars/sayed-imran.jpg"
+  },
+  {
+    "name": "Cosme Cabello",
+    "github": "ccabelloc",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut",
+      "OCI Certified"
+    ],
+    "city": "Santiago",
+    "country": "Chile",
+    "date": "2025-02-09",
+    "bio": "1st Golden Kubestronaut in Chile",
+    "linkedin": "cosmecabello",
+    "avatar": "/avatars/cosmecabello.jpg"
+  },
+  {
+    "name": "Baikuntha Bana Bihari Sahoo",
+    "github": "baikunthasahoo",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Rourkela",
+    "country": "India",
+    "date": "2026-03-03",
+    "bio": "CNCF Golden Kubestronaut ☸️  and AWS  Cloud Architect  | Multi-Cloud |  10K Social Reach",
+    "twitter": "gacrbb",
+    "linkedin": "baikuntha-sahoo",
+    "website": "https://www.credly.com/users/baikuntha-bana-bihari-sahoo"
+  },
+  {
+    "name": "Geoffrey Shelton Okot",
+    "github": "sheltong",
+    "certs": ["Golden kubestronaut, kubestrong"],
+    "city": "Geneva",
+    "country":  "Switzerland",
+    "date": "2026-01-26",
+    "bio": "Golden kubestronaut | kubestrong | Azure | ArgoCD | Backstage | AI | Kyverno | DevOps | GitHub | SRE | GitOps | Databricks | Python | Docker |Ansible | Terraform | DevSecOps | Snowflake  | Openshift | AWS | ISTIO | HELM | CI/CD", 
+    "linkedin": "sheltong",
+    "avatar": "/avatars/shelton.png"
+  },
+  {
+    "name": "Percy Escalante",
+    "github": "PercyUkn",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Lima",
+    "country": "Peru",
+    "date": "2026-02-09",
+    "bio": "Golden Kubestronaut | AWS DevOps Engineer",
+    "linkedin": "percy-escalante-barriga",
+    "avatar": "/avatars/percyescalante.jpg"
   },
   {
     "name": "Manmohan Mirkar",
@@ -351,197 +724,5 @@
     "linkedin": "manmohan-mirkar-b3aa17203",
     "avatar": "/avatars/manmohan.png",
     "website": "https://linuxroutes.com"
-  },
-  {
-    "name": "Maxim Filipovich",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Warsaw",
-    "country": "Poland",
-    "date": "2025-06-27",
-    "linkedin": "maxim-filipovich-61771223",
-    "avatar": "/avatars/maxim_filipovich.jpg"
-  },
-  {
-    "name": "Olivier Calzi",
-    "github": "ocalzi",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Brussels",
-    "country": "Belgium",
-    "date": "2025-12-12",
-    "bio": "Helping firm manage IT infrastructure. | CNCF Golden Kubestronaut",
-    "linkedin": "oliviercalzi",
-    "website": "https://portefolio.calzi.eu",
-    "avatar": "/avatars/ocalzi.png"
-  },
-  {
-    "name": "Pedro Célestin",
-    "github": "pedrocrc",
-    "certs": ["kubestrong","golden kubestronaut"],
-    "city": "Brasília",
-    "country": "Brazil",
-    "date": "2025-04-10",
-    "bio": "Principal SRE | CNCF Kubestronaut & Golden Kubestronaut | 10x AWS | 6x GCP | 2x Azure",
-    "linkedin": "pedrocrc",
-    "avatar": "/avatars/pedrocelestin.jpg"
-  },
-  {
-    "name": "Percy Escalante",
-    "github": "PercyUkn",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Lima",
-    "country": "Peru",
-    "date": "2026-02-09",
-    "bio": "Golden Kubestronaut | AWS DevOps Engineer",
-    "linkedin": "percy-escalante-barriga",
-    "avatar": "/avatars/percyescalante.jpg"
-  },
-  {
-    "name": "Pragesh Trivedi",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "date": "2025-05-17",
-    "linkedin": "prageshtrivedi",
-    "avatar": "/avatars/tpragesh.png"
-  },
-  {
-    "name": "Sammy Cheung",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Austin",
-    "country": "USA",
-    "date": "2025-05-05",
-    "linkedin": "sammy-cheung",
-    "avatar": "/avatars/sammycheung.png"
-  },
-  {
-    "name": "Santhosh NC",
-    "github": "SanthoshNC",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut","githubstronaut","gcpstronaut"],
-    "city": "Erode,Tamil Nadu",
-    "country": "India",
-    "date": "2025-10-22",
-    "bio": "Lead DevSecOps Engineer | Multi-Cloud(Azure,AWS,GCP,OCI) & MLOps Technologist | Building secure, scalable systems & inspiring learners to grow through real-world impact",
-    "twitter": "santhoshnc",
-    "linkedin": "santhoshnc",
-    "website": "https://www.santhoshnc.me",
-    "avatar": "/avatars/santhoshnc.png"
-  },
-  {
-    "name": "Sayed Imran",
-    "github": "sayed-imran",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Bengaluru",
-    "country": "India",
-    "date": "2026-02-24",
-    "bio": "Golden Kubestronaut ☸️ | CNCG BBSR Co-Organizer | Multi & Hybrid Cloud | 6x Google Cloud Certified | SRE @ 66Degrees | Speaker | Mentor",
-    "linkedin": "sayed-imran",
-    "website": "https://sayed-imran.github.io/",
-    "twitter": "sayedimrankube",
-    "avatar": "/avatars/sayed-imran.jpg"
-  },
-  {
-    "name": "Shaoyi Li",
-    "github": "szl0144",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Jacksonville",
-    "country": "USA",
-    "date": "2025-07-21",
-    "bio": "Lead Cloud Engineer | AWS Hero | 89x AWS Badges | AWS UG China Leader | 145K+ followers",
-    "linkedin": "shaoyi-li-cloud",
-    "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
-    "avatar": "/avatars/ShaoyiLi.png"
-  },
-  {
-    "name": "Shinji AIBARA",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Fujisawa",
-    "country": "Japan",
-    "date": "2025-05-05",
-    "linkedin": "shinji-aibara-595a26329",
-    "avatar": "/avatars/shinjiaibara.png"
-  },
-  {
-    "name": "Stanislav Kolenkin",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Warsaw",
-    "country": "Poland",
-    "date": "2025-05-05",
-    "linkedin": "stanislav-kolenkin-4b6b96a",
-    "avatar": "/avatars/stanislavkolenkin.png"
-  },
-  {
-    "name": "V-ris Jaijongrak",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Bangkok",
-    "country": "Thailand",
-    "date": "2025-05-05",
-    "linkedin": "v-ris-jaijongrak",
-    "avatar": "/avatars/vrisjaijongrak.png"
-  },
-  {
-    "name": "Wissem Kadri",
-    "github": "wissemkadri",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Ariana",
-    "country": "Tunisia",
-    "date": "2025-12-24",
-    "bio": "DevOps Engineer | CNCF Golden Kubestronaut ☸️",
-    "linkedin": "wissemkadri",
-    "avatar": "/avatars/wissem-kadri.jpg"
-  },
-  {
-    "name": "Yevhen Skyba",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Kharkiv",
-    "country": "Ukraine",
-    "date": "2025-06-27",
-    "linkedin": "yevhen-skyba",
-    "avatar": "/avatars/yevhenskyba.jpg"
-  },
-  {
-    "name": "Yongkang He",
-    "github": "yongkanghe",
-    "certs": ["kubestrong","awstronaut","kubestronaut"],
-    "city": "Melbourne",
-    "country": "Australia",
-    "date": "2024-07-01",
-    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
-    "twitter": "yongkanghe",
-    "linkedin": "yongkanghe",
-    "website": "https://ksug.ai",
-    "avatar": "/avatars/yongkanghe.png"
-  },
-  {
-    "name": "Yujun Liang",
-    "github": "yujunliang",
-    "certs": ["golden kubestrong","awstronaut","golden kubestronaut"],
-    "city": "Dallas",
-    "country": "USA",
-    "date": "2024-07-01",
-    "bio": "Certification King | kubestrong | awstronaut | kubestronaut | AWS Builder | Google GDE 2025 | Multi-Cloud",
-    "twitter": "yujunliang",
-    "linkedin": "yujunliang",
-    "website": "",
-    "avatar": "/avatars/yujunliang.png"
-  },
-  {
-    "name": "Yuriy Bezsonov",
-    "certs": ["kubestrong","awstronaut"],
-    "city": "Paderborn",
-    "country": "Germany",
-    "date": "2025-05-05",
-    "linkedin": "yuriybezsonov",
-    "avatar": "/avatars/yuriybezsonov.png"
-  },
-  {
-    "name": "Dmytro Slotvinskyi",
-    "github": "dmytroslotvinskyy",
-    "certs": ["kubestrong","kubestronaut","golden kubestronaut"],
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "date": "2025-12-29",
-    "bio": "Senior Azure DevOps Engineer (Azure AI/MLOps) @ Intellias | CNCF Ambassador | Golden Kubestronaut ☸️",
-    "linkedin": "dmytro-slotvinskyi",
-    "avatar": "/avatars/slotvinskyidmytro.jpg"
   }
 ]
