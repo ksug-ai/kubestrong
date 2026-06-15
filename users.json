@@ -725,5 +725,16 @@
     "linkedin": "manmohan-mirkar-b3aa17203",
     "avatar": "/avatars/manmohan.png",
     "website": "https://linuxroutes.com"
+  },
+  {
+    "name": "Nikolai Lantsov",
+    "github": "n1k0l4nts",
+    "certs": ["Golden Kubestronaut, kubestrong"],
+    "city": "Jersey City, NJ",
+    "country": "USA",
+    "date": "2026-06-15",
+    "bio": "DevSecOps Engineer | CNCF Golden Kubestronaut", 
+    "linkedin": "niko-us",
+    "avatar": "/avatars/nikolai.jpg"
   }
 ]
