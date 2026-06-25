@@ -725,5 +725,15 @@
     "linkedin": "manmohan-mirkar-b3aa17203",
     "avatar": "/avatars/manmohan.png",
     "website": "https://linuxroutes.com"
-  }
+  },
+  {
+  "name": "Priyanshi Gangwar",
+  "certs": ["Golden Kubestronaut", "Kubestronaut", "Awstronaut"],
+  "city": "Kichha",
+  "country": "India",
+  "date": "2026-03-01",
+  "bio": "India's Youngest & 1st Female Golden Kubestronaut 🇮🇳 | World's 2nd 🌍 | 13x AWS | 6x Azure | 2x GCP | GenAI Engineer | DevOps | Terraform | Kubernetes | Azure MVP | Google GDE | DevRel | 100K+ Social Reach",
+  "linkedin": "www.linkedin.com/in/priyanshigangwar",
+  "avatar": "/avatars/priyanshi.jpg"
+}
 ]
