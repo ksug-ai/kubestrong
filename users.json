@@ -727,6 +727,23 @@
     "website": "https://linuxroutes.com"
   },
   {
+    "name": "Cristian Cortez",
+    "github": "cortezcristian",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Dublin",
+    "country": "Ireland",
+    "date": "2025-12-22",
+    "bio": "12x AWS | 5x K8S | 1x GCP | 1x Azure | ex IBMer | ex AWS | SME",
+    "twitter": "cortezcristian",
+    "linkedin": "cortezcristian",
+    "website": "https://cortezcristian.com/",
+    "avatar": "/avatars/cortezcristian.png"
+  },
+  {
     "name": "Nikolai Lantsov",
     "github": "n1k0l4nts",
     "certs": ["Golden Kubestronaut, kubestrong"],
