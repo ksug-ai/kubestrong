@@ -232,20 +232,6 @@
     "avatar": "/avatars/doddykristianto.png"
   },
   {
-    "name": "Albert Zhu",
-    "github": "Albertzue",
-    "certs": [
-      "kubestrong",
-      "golden kubestronaut",
-      "awstronaut"
-    ],
-    "city": "Shanghai",
-    "country": "China",
-    "date": "2025-05-17",
-    "linkedin": "albertzhu88",
-    "avatar": "/avatars/albertzhu.png"
-  },
-  {
     "name": "Allen R. Chan",
     "github": "allenrchan",
     "certs": [
@@ -726,5 +712,19 @@
     "linkedin": "manmohan-mirkar-b3aa17203",
     "avatar": "/avatars/manmohan.png",
     "website": "https://linuxroutes.com"
+  },
+  {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": [
+      "golden kubestrong",
+      "golden kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2025-05-17",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
   }
 ]
