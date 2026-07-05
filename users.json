@@ -232,19 +232,6 @@
     "avatar": "/avatars/doddykristianto.png"
   },
   {
-    "name": "Albert Zhu",
-    "github": "Albertzue",
-    "certs": [
-      "kubestrong",
-      "golden kubestronaut"
-    ],
-    "city": "Shanghai",
-    "country": "China",
-    "date": "2025-05-17",
-    "linkedin": "albertzhu88",
-    "avatar": "/avatars/albertzhu.png"
-  },
-  {
     "name": "Allen R. Chan",
     "github": "allenrchan",
     "certs": [
@@ -744,6 +731,31 @@
     "avatar": "/avatars/cortezcristian.png"
   },
   {
+    "name": "Nikolai Lantsov",
+    "github": "n1k0l4nts",
+    "certs": ["Golden Kubestronaut, kubestrong"],
+    "city": "Jersey City, NJ",
+    "country": "USA",
+    "date": "2026-06-15",
+    "bio": "DevSecOps Engineer | CNCF Golden Kubestronaut", 
+    "linkedin": "niko-us",
+    "avatar": "/avatars/nikolai.jpg"
+  },
+  {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": [
+      "golden kubestrong",
+      "golden kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2025-05-17",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
+  },
+  {
     "name": "Vincent Chu Wai Chow",
     "github": "Raishin",
     "certs": [
@@ -754,7 +766,7 @@
     "city": "Port Louis",
     "country": "Mauritius",
     "date": "2026-06-26",
-    "bio": "☁️ AWS Awstronaut MU #000 | ☸️ Kubestrong MU #000 | ☸️ Kubestronaut MU #000 | 🌐 Multi-Cloud Solutions Architect | 🏆 80+ Certifications (AWS/Azure/OCI) | 🚀 Enterprise Migration & AI Specialist | 💰 FinOps & Cost Optimization | ⚡ Terraform Expert | Certs: DP-700, DP-600, AZ-104, AZ-305, AZ-204, SC-900, AZ-900, 1Z0-1124-25, 1Z0-1093-25, 1Z0-1109-25, 1Z0-1110-25, 1Z0-1122-25, 1Z0-1104-24, 1Z0-1127-24, 1Z0-1072-23, 1Z0-997-23, 1Z0-1122-23, 1Z0-1105-23, 1Z0-1085-25, 1Z0-1123-24, 1Z0-1067-24",
+    "bio": "☁️ AWS Awstronaut MU #000 | 💪 Kubestrong MU #000 | ☸️ Kubestronaut MU #000 | 🌐 Multi-Cloud Solutions Architect | 🏆 80+ Certifications (AWS/Azure/OCI) | 🚀 Enterprise Migration & AI Specialist | 💰 FinOps & Cost Optimization | ⚡ Terraform Expert | Certs: DP-700, DP-600, AZ-104, AZ-305, AZ-204, SC-900, AZ-900, 1Z0-1124-25, 1Z0-1093-25, 1Z0-1109-25, 1Z0-1110-25, 1Z0-1122-25, 1Z0-1104-24, 1Z0-1127-24, 1Z0-1072-23, 1Z0-997-23, 1Z0-1122-23, 1Z0-1105-23, 1Z0-1085-25, 1Z0-1123-24, 1Z0-1067-24",
     "linkedin": "vincent-chu-wai-chow",
     "avatar": "/avatars/Raishin.jpg"
   }
