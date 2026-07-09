@@ -783,5 +783,34 @@
     "date": "2026-07-05",
     "linkedin": "nana-yamaguchi-611554327",
     "avatar": "/avatars/nanayamaguchi.png"
+  },
+  {
+    "name": "Ivan Totev",
+    "github": "ivantotev",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut"
+    ],
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "date": "2026-07-03",
+    "bio": "kubestrong | Golden Kubestronaut | AWS Pro Builder | Google Cloud | Proxmox | OpenStack",
+    "linkedin": "ivan-totev",
+    "website": "https://www.netbadgers.com",
+    "avatar": "/avatars/ivan-totev.jpg"
+  },
+  {
+    "name": "Nana Yamaguchi",
+    "github": "yghc",
+    "certs": [
+      "awstronaut",
+      "kubestrong",
+      "kubestronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2026-07-05",
+    "linkedin": "nana-yamaguchi-611554327",
+    "avatar": "/avatars/nanayamaguchi.png"
   }
 ]
