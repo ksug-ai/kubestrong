@@ -846,6 +846,22 @@
     "avatar": "/avatars/petra-hudeckova.jpg"
   },
   {
+    "name": "Damien Obringer",
+    "github": "damien-o",
+    "certs": [
+      "kubestronaut",
+      "golden kubestronaut",
+      "kubestrong"
+    ],
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "date": "2026-08-22",
+    "bio": "Senior Solutions Architect focused on cloud, security, Kubernetes, and FinOps, helping organizations build secure and scalable cloud-native systems",
+    "linkedin": "damien-obringer",
+    "avatar": "/avatars/damien_-obringer.jpg",
+    "website": "https://damien-o.github.io"
+  },
+  {
     "name": "Taha Dekmak",
     "github": "taha-digico",
     "certs": ["kubestrong", "awstronaut", "kubestronaut", "Terraform"],
