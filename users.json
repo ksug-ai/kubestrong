@@ -900,5 +900,16 @@
     "date": "2026-09-13",
     "linkedin": "larrylaisg",
     "avatar": "/avatars/larrylai.jpg"
+  },
+  {
+    "name": "Tuguldur Demberel",
+    "github": "tuguldur-dev",
+    "certs": ["kubestrong", "kubestronaut", "golden kubestronaut"],
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "date": "2026-09-01",
+    "bio": "Software engineer | CNCF Golden Kubestronaut", 
+    "linkedin": "tuguldur-dev",
+    "avatar": "/avatars/tuguldur-demberel.jpeg"
   }
 ]
