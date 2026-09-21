@@ -911,5 +911,20 @@
     "bio": "Software engineer | CNCF Golden Kubestronaut", 
     "linkedin": "tuguldur-dev",
     "avatar": "/avatars/tuguldur-demberel.jpeg"
+  },
+  {
+    "name": "최보현",
+    "github": "Brilly-Bohyun",
+    "certs": [
+      "kubestronaut",
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "Busan",
+    "country": "South Korea",
+    "date": "2026-09-21",
+    "bio": "GPU Platform Engineer | Enterprise AI Infrastructure | CNCF Golden Kubestronaut | Open Source Contributor",
+    "linkedin": "bohyunchoi",
+    "avatar": "/avatars/bohyun.jpg"
   }
 ]
