@@ -927,5 +927,16 @@
     "bio": "GPU Platform Engineer | Enterprise AI Infrastructure | CNCF Golden Kubestronaut | Open Source Contributor",
     "linkedin": "bohyunchoi",
     "avatar": "/avatars/bohyun.jpg"
-  }
+  },
+	{
+  "name": "Aditya Sharma",
+  "github": "/aditya6661",
+  "certs": ["kubestrong", "kubestronaut", "golden kubestronaut"],
+  "city": "Bhopal",
+  "country": "India",
+  "date": "2026-10-05",
+  "bio": "Leading Technical Solutions, Cloud Efficiency and DevSecOps Practices| CNCF Golden Kubestronaut",
+  "linkedin": "adityasharmadevops",
+  "avatar": "/avatars/aditya-sharma.jpg"
+}
 ]
