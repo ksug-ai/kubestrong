@@ -928,4 +928,17 @@
     "linkedin": "bohyunchoi",
     "avatar": "/avatars/bohyun.jpg"
   }
+,
+  {
+    "name": "Sonia Ni",
+    "slug": "sonia-ni",
+    "github": "sonia-ni",
+    "certs": ["kubestrong", "Golden Kubestronaut"],
+    "city": "Sydney",
+    "country": "Australia",
+    "date": "2026-10-09",
+    "bio": "Platform Engineer | Golden Kubestronaut | Kubernetes, GitOps & AI Infrastructure",
+    "linkedin": "sonia-ni",
+    "avatar": "/avatars/sonia-ni.jpg"
+  }
 ]
