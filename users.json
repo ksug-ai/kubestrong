@@ -950,5 +950,18 @@
 	"bio": "Leading Technical Solutions, Cloud Efficiency and DevSecOps Practices| CNCF Golden Kubestronaut",
 	"linkedin": "adityasharmadevops",
 	"avatar": "/avatars/aditya-sharma.jpg"
+  },
+  {
+    "name": "Piotr Pabis",
+    "certs": ["kubestrong", "kubestronaut", "awstronaut"],
+    "city": "Berlin",
+    "country": "Germany",
+    "date": "2026-10-22",
+    "linkedin": "piotr-pabis",
+    "avatar": "/avatars/piotrpabis.png",
+    "website": "https://pabis.eu",
+    "twitter": "pabis_eu",
+    "github": "ppabis",
+    "bio": "17x AWS :: Follow me on LinkedIn and X to know more 😄"
   }
 ]
