@@ -963,5 +963,15 @@
     "twitter": "pabis_eu",
     "github": "ppabis",
     "bio": "17x AWS :: Follow me on LinkedIn and X to know more 😄"
+  },
+  {
+  "name": "Yaswanth Mylamuri",
+  "github": "iamyaswanth",
+  "certs": ["Golden Kubestronaut", "AZ-305", "AZ-104"],
+  "city": "Bengaluru",
+  "country": "India",
+  "date": "2026-02-15",
+  "linkedin": "iamyaswanth",
+  "avatar": "/avatars/yaswanth.png"
   }
 ]
